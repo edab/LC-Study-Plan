@@ -14,3 +14,4 @@ My solution for LeetCode problems using Python.
 | 771 | 2 | String | Easy | [Jewels and Stones](solution/LC771.py)
 |  21 | 2 | Linked List | Easy | [Merge Two Sorted Lists](solutions/LC21.py)
 | 141 | 2 | Linked List | Easy | [Linked List Cycle](solution/LC141.py)
+| 160 | 2 | Linked List | Easy | [Intersection of Two Linked Lists](solutions/LC160.py)
