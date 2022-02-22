@@ -1,10 +1,10 @@
-# Leetcode 189. Rotate Array
+# Leetcode 771. Jewels and Stones
 #
-# Link: https://leetcode.com/problems/rotate-array/
-# Difficulty: Medium
+# Link: https://leetcode.com/problems/jewels-and-stones/
+# Difficulty: Easy
 # Complexity:
-#   O(N) time | where N represent the number of elements in the input array
-#   O(1) space
+#   O(N) time | where N represent the number of elements in the stone array
+#   O(M) space | where M represent the number of elements in the jewels array
 
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
