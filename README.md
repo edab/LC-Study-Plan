@@ -8,3 +8,4 @@ My solution for LeetCode problems using Python.
 | --: | --- |  ---  |  :--  | :--
 |  88 |  1  | Array | Easy  | [Merge Sorted Array](solutions/LC88.py)
 |  26 |  1  | Array | Easy  | [Remove Duplicates from Sorted Array](solutions/LC26.py)
+| 283 | 2 | Array | Medium | [Move Zeroes](solutions/LC283.py)
