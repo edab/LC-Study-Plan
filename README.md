@@ -15,3 +15,8 @@ My solution for LeetCode problems using Python.
 |  21 | 2 | Linked List | Easy | [Merge Two Sorted Lists](solutions/LC21.py)
 | 141 | 2 | Linked List | Easy | [Linked List Cycle](solution/LC141.py)
 | 160 | 2 | Linked List | Easy | [Intersection of Two Linked Lists](solutions/LC160.py)
+|  20 | 3 | Stack | Easy | [Valid Parentheses](solutions/LC20.py)
+| 155 | 3 | Stack | Easy | [Min Stack](solutions/LC155.py)
+| 225 | 3 | Stack | Easy | [Implement Stack using Queues](solutions/LC225.py)
+|  94 | 3 | Tree | Easy | [Binary Tree Inorder Traversal](solutions/LC94.py)
+| 101 | 3 | Tree | Easy | [Symmetric Tree](solutions/LC101.py)
