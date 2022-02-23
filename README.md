@@ -26,3 +26,7 @@ My solution for LeetCode problems using Python.
 | 1791 | 5 | Graphs | Easy | [Find Center of Star Graph](solutions/LC1791.py)
 | 1 | 5 | Map | Easy | [Two Sum](solutions/LC1.py)
 | 13 | 5 | Map | Easy | [Roman to Integer](solutions/LC13.py)
+| 169 | 5 | Map | Easy | [Majority Element](solutions/LC169.py)
+| 703 | 5 | Heap | Easy | [Kth Largest Element in a Stream](solutions/LC703.py)
+| 1046 | 5 | Heap | Easy | [Last Stone Weight](solutions/LC1046.py)
+| 1337 | 5 | Heap | Easy | [The K Weakest Rows in a Matrix](solutions/LC1337.py)
