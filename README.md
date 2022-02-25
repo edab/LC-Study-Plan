@@ -6,8 +6,8 @@ My solution for LeetCode problems using Python.
 
 |   # | Day | Topic | Level | Description
 | --: | --- |  ---  |  :--  | :--
-|  88 |  1  | Array | Easy  | [Merge Sorted Array](solutions/LC88.py)
-|  26 |  1  | Array | Easy  | [Remove Duplicates from Sorted Array](solutions/LC26.py)
+|  88 | 1 | Array | Easy  | [Merge Sorted Array](solutions/LC88.py)
+|  26 | 1 | Array | Easy  | [Remove Duplicates from Sorted Array](solutions/LC26.py)
 | 283 | 2 | Array | Medium | [Move Zeroes](solutions/LC283.py)
 | 704 | 2 | Array | Easy   | [Binary Search](solutions/LC704.py)
 | 189 | 2 | Array | Medium | [Rotate Array](solutions/LC189.py)
@@ -20,3 +20,6 @@ My solution for LeetCode problems using Python.
 | 225 | 3 | Stack | Easy | [Implement Stack using Queues](solutions/LC225.py)
 |  94 | 3 | Tree | Easy | [Binary Tree Inorder Traversal](solutions/LC94.py)
 | 101 | 3 | Tree | Easy | [Symmetric Tree](solutions/LC101.py)
+| 104 | 4 | Tree | Easy | [Maximum Depth of Binary Tree](solutions/LC104.py)
+| 997 | 4 | Graphs | Easy | [Find the Town Judge](solutions/LC997.py)
+| 1971 | 4 | Graphs | Easy | [Find if Path Exists in Graph](solutions/LC1971.py)
