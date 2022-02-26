@@ -22,4 +22,4 @@ My solution for LeetCode problems using Python.
 | 101 | 3 | Tree | Easy | [Symmetric Tree](solutions/LC101.py)
 | 104 | 4 | Tree | Easy | [Maximum Depth of Binary Tree](solutions/LC104.py)
 | 997 | 4 | Graphs | Easy | [Find the Town Judge](solutions/LC997.py)
-| 1971 | 4 | Graphs | Easy | [Find if Path Exists in Graph](solutions/LC1971.py)
+| 1971 | 5 | Graphs | Easy | [Find if Path Exists in Graph](solutions/LC1971.py)
