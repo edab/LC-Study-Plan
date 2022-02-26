@@ -24,3 +24,5 @@ My solution for LeetCode problems using Python.
 | 997 | 4 | Graphs | Easy | [Find the Town Judge](solutions/LC997.py)
 | 1971 | 5 | Graphs | Easy | [Find if Path Exists in Graph](solutions/LC1971.py)
 | 1791 | 5 | Graphs | Easy | [Find Center of Star Graph](solutions/LC1791.py)
+| 1 | 5 | Map | Easy | [Two Sum](solutions/LC1.py)
+| 13 | 5 | Map | Easy | [Roman to Integer](solutions/LC13.py)
