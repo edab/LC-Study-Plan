@@ -30,3 +30,6 @@ My solution for LeetCode problems using Python.
 | 703 | 5 | Heap | Easy | [Kth Largest Element in a Stream](solutions/LC703.py)
 | 1046 | 5 | Heap | Easy | [Last Stone Weight](solutions/LC1046.py)
 | 1337 | 5 | Heap | Easy | [The K Weakest Rows in a Matrix](solutions/LC1337.py)
+| 3 | 6 | String | Medium | [Longest Substring Without Repeating Characters](solutions/LC3.py)
+| 2 | 6 | Linked List | Medium | [Add Two Numbers](solutions/LC2.py)
+| 71 | 6 | Stack | Medium | [Simplify Path](solutions/LC71.py)
