@@ -37,5 +37,6 @@ My solution for LeetCode problems using Python.
 | 210 | 6 | Graph | Medium | [Course Schedule II](solutions/LC210.py)
 | 36 | 6 | Map | Medium | [Valid Sudoku](solutions/LC36.py)
 | 215 | 6 | Heap | Medium | [Kth Largest Element in an Array](solutions/LC215.py)
-| 347 | 7 | Heap | Medium | [Top K Frequent Elements](solution/LC347.py)
-| 238* | 7 | Array | Medium | [Product of Array Except Self](solution/LC238.py)
+| 347 | 7 | Heap | Medium | [Top K Frequent Elements](solutions/LC347.py)
+| 238* | 7 | Array | Medium | [Product of Array Except Self](solutions/LC238.py)
+| 5 | 8 | String | Medium | [Longest Palindromic Substring](solutions/LC5.py)
