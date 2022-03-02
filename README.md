@@ -40,3 +40,7 @@ My solution for LeetCode problems using Python.
 | 347 | 7 | Heap | Medium | [Top K Frequent Elements](solutions/LC347.py)
 | 238* | 7 | Array | Medium | [Product of Array Except Self](solutions/LC238.py)
 | 5 | 8 | String | Medium | [Longest Palindromic Substring](solutions/LC5.py)
+| 8 | 8 | String | Medium | [String to Integer (atoi)](solutions/LC8.py)
+| 19 | 8 | Linked List | Medium | [Remove Nth Node From End of List](solutions/LC19.py)
+| 138 | 8 | Linked List | Medium | [Copy List with Random Pointer](solutions/LC138.py)
+| 150 | 8 | Stack | Medium | [Evaluate Reverse Polish Notation](solutions/LC150.py)
