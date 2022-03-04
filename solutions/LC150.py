@@ -10,12 +10,12 @@ class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
 
         stack = []
-        op = {'+': add, '-': sub, '*': mul, '/': floordiv}
+        op = {'+', '-', '*', '/'}
 
         for token in tokens:
           if token in op:
             a, b = stack.pop(), stack.pop()
-            #stack.append(op[token](b,a))
+
             if token == '+':
               stack.append(a + b)
             elif token == '-':
@@ -24,6 +24,7 @@ class Solution:
               stack.append(a * b)
             elif token == '/':
               stack.append(int(b / a))
+
           else:
             stack.append(int(token))
 

@@ -44,3 +44,5 @@ My solution for LeetCode problems using Python.
 | 19 | 8 | Linked List | Medium | [Remove Nth Node From End of List](solutions/LC19.py)
 | 138 | 8 | Linked List | Medium | [Copy List with Random Pointer](solutions/LC138.py)
 | 150 | 8 | Stack | Medium | [Evaluate Reverse Polish Notation](solutions/LC150.py)
+| 146 | 9 | Hash | Medium | [LRU Cache](solutions/LC146.py)
+| 1344 | 9 | - | Medium | [Angle Between Hands of a Clock](solutions/LC1344.py)
