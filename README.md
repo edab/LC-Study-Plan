@@ -46,3 +46,4 @@ My solution for LeetCode problems using Python.
 | 150 | 8 | Stack | Medium | [Evaluate Reverse Polish Notation](solutions/LC150.py)
 | 146 | 9 | Hash | Medium | [LRU Cache](solutions/LC146.py)
 | 1344 | 9 | - | Medium | [Angle Between Hands of a Clock](solutions/LC1344.py)
+| 42 | 10 | - | Hard | [Trapping Rain Water](solutions/LC42.py)

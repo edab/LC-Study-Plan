@@ -5,6 +5,7 @@
 # Complexity:
 #   O(9^2) time
 #   O(9^2) space
+
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
 
@@ -28,4 +29,3 @@ class Solution:
           boxs[(col // 3, row // 3)].add(board[row][col])
 
       return True
-     
