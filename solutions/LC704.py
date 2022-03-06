@@ -1,6 +1,6 @@
 # Leetcode 704. Binary Search
 #
-# Link: https://leetcode.com/problems/binary-search/
+# Link: https://leetcode.com/problems/first-bad-version/
 # Difficulty: Easy
 # Complexity:
 #   O(logN) time | where N represent the number of elements in the input array

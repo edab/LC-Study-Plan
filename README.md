@@ -2,9 +2,16 @@
 
 My solution for LeetCode problems using Python.
 
+## From Algorithm I study plan
+
+|   # | Day | Topic | Level | Solution
+| --: | --- |  ---  |  :--  | :--
+| 704 |   1 | Binary Search | Easy | [Binary Search](solutions/LC704.py)
+| 278 |   1 | Binary Search | Easy | [First Bad Version](solutions/LC278.py)
+
 ## Random problems
 
-|   # | Day | Topic | Level | Description
+|   # | Day | Topic | Level | Solution
 | --: | --- |  ---  |  :--  | :--
 |  88 | 1 | Array | Easy  | [Merge Sorted Array](solutions/LC88.py)
 |  26 | 1 | Array | Easy  | [Remove Duplicates from Sorted Array](solutions/LC26.py)
