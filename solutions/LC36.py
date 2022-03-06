@@ -1,6 +1,6 @@
 # Leetcode 36. Valid Sudoku
 #
-# Link: https://leetcode.com/problems/validate-binary-search-tree/
+# Link: https://leetcode.com/problems/valid-sudoku/
 # Difficulty: Medium
 # Complexity:
 #   O(9^2) time
