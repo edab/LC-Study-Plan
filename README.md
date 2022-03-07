@@ -8,6 +8,7 @@ My solution for LeetCode problems using Python.
 | --: | --- |  ---  |  :--  | :--
 | 704 |   1 | Binary Search | Easy | [Binary Search](solutions/LC704.py)
 | 278 |   1 | Binary Search | Easy | [First Bad Version](solutions/LC278.py)
+|  35 |   1 | Binary Search | Easy | [Search Insert Position](solutions/LC35.py)
 
 ## Random problems
 
