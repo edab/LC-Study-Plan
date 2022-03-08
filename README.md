@@ -1,60 +1,238 @@
-# LC_StudyPlan_Python
+# [LeetCode](https://leetcode.com/problemset/all/) study plan
+
+![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
+![Progress](https://img.shields.io/badge/progress-65%20%2F%202198-ff69b4.svg)&nbsp;
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edab.leetcode.studyplan)
 
 My solution for LeetCode problems using Python.
 
-## From Algorithm I study plan
+## Topics
 
-|   # | Day | Topic | Level | Solution
-| --: | --- |  ---  |  :--  | :--
-| 704 |   1 | Binary Search | Easy | [Binary Search](solutions/LC704.py)
-| 278 |   1 | Binary Search | Easy | [First Bad Version](solutions/LC278.py)
-|  35 |   1 | Binary Search | Easy | [Search Insert Position](solutions/LC35.py)
+- Techniques
+  - [Two Pointers](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#two-pointers)
+- Programming paradigms
+  - [Greedy](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#greedy)
+- Data Structures
+  - [Array](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#array)
+  - [Binary Heap](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#binary-heap)
+  - [Graph](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#graph)
+  - [Linked List](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#linked-list)
+  - [Hash Table](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#hash-table)
+  - [Stack](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#stack)
+  - [String](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#string)
+  - [Tree](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#tree)
+- Algorithms
+  - [Binary Search](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#binary-search)
+  - [Design](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#design)
+  - [Sorting](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#sorting)
 
-## Random problems
+## Techniques
 
-|   # | Day | Topic | Level | Solution
-| --: | --- |  ---  |  :--  | :--
-|  88 | 1 | Array | Easy  | [Merge Sorted Array](solutions/LC88.py)
-|  26 | 1 | Array | Easy  | [Remove Duplicates from Sorted Array](solutions/LC26.py)
-| 283 | 2 | Array | Medium | [Move Zeroes](solutions/LC283.py)
-| 704 | 2 | Array | Easy   | [Binary Search](solutions/LC704.py)
-| 189 | 2 | Array | Medium | [Rotate Array](solutions/LC189.py)
-| 771 | 2 | String | Easy | [Jewels and Stones](solution/LC771.py)
-|  21 | 2 | Linked List | Easy | [Merge Two Sorted Lists](solutions/LC21.py)
-| 141 | 2 | Linked List | Easy | [Linked List Cycle](solution/LC141.py)
-| 160 | 2 | Linked List | Easy | [Intersection of Two Linked Lists](solutions/LC160.py)
-|  20 | 3 | Stack | Easy | [Valid Parentheses](solutions/LC20.py)
-| 155 | 3 | Stack | Easy | [Min Stack](solutions/LC155.py)
-| 225 | 3 | Stack | Easy | [Implement Stack using Queues](solutions/LC225.py)
-|  94 | 3 | Tree | Easy | [Binary Tree Inorder Traversal](solutions/LC94.py)
-| 101 | 3 | Tree | Easy | [Symmetric Tree](solutions/LC101.py)
-| 104 | 4 | Tree | Easy | [Maximum Depth of Binary Tree](solutions/LC104.py)
-| 997 | 4 | Graph | Easy | [Find the Town Judge](solutions/LC997.py)
-| 1971 | 5 | Graph | Easy | [Find if Path Exists in Graph](solutions/LC1971.py)
-| 1791 | 5 | Graph | Easy | [Find Center of Star Graph](solutions/LC1791.py)
-| 1 | 5 | Map | Easy | [Two Sum](solutions/LC1.py)
-| 13 | 5 | Map | Easy | [Roman to Integer](solutions/LC13.py)
-| 169 | 5 | Map | Easy | [Majority Element](solutions/LC169.py)
-| 703 | 5 | Heap | Easy | [Kth Largest Element in a Stream](solutions/LC703.py)
-| 1046 | 5 | Heap | Easy | [Last Stone Weight](solutions/LC1046.py)
-| 1337 | 5 | Heap | Easy | [The K Weakest Rows in a Matrix](solutions/LC1337.py)
-| 3 | 6 | String | Medium | [Longest Substring Without Repeating Characters](solutions/LC3.py)
-| 2 | 6 | Linked List | Medium | [Add Two Numbers](solutions/LC2.py)
-| 71 | 6 | Stack | Medium | [Simplify Path](solutions/LC71.py)
-| 98 | 6 | Tree | Medium | [Validate Binary Search Tree](solutions/LC98.py)
-| 210 | 6 | Graph | Medium | [Course Schedule II](solutions/LC210.py)
-| 36 | 6 | Map | Medium | [Valid Sudoku](solutions/LC36.py)
-| 215 | 6 | Heap | Medium | [Kth Largest Element in an Array](solutions/LC215.py)
-| 347 | 7 | Heap | Medium | [Top K Frequent Elements](solutions/LC347.py)
-| 238* | 7 | Array | Medium | [Product of Array Except Self](solutions/LC238.py)
-| 5 | 8 | String | Medium | [Longest Palindromic Substring](solutions/LC5.py)
-| 8 | 8 | String | Medium | [String to Integer (atoi)](solutions/LC8.py)
-| 19 | 8 | Linked List | Medium | [Remove Nth Node From End of List](solutions/LC19.py)
-| 138 | 8 | Linked List | Medium | [Copy List with Random Pointer](solutions/LC138.py)
-| 150 | 8 | Stack | Medium | [Evaluate Reverse Polish Notation](solutions/LC150.py)
-| 146 | 9 | Hash | Medium | [LRU Cache](solutions/LC146.py)
-| 1344 | 9 | String | Medium | [Angle Between Hands of a Clock](solutions/LC1344.py)
-| 42  | 10 | Array | Hard | [Trapping Rain Water](solutions/LC42.py)
-| 121 | 10 | Greedy | Easy | [Best Time to Buy and Sell Stock](solutions/LC121.py)
-| 46 | 11 | Backtracking | Medium | [Permutations](solutions/LC46.py)
-| 39 | 11 | Backtracking | Medium | [Combination Sum](solutions/LC39.py)
+### Two Pointers
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|  283 | [Move Zeroes](solutions/LC283.py)| Medium
+|  977 | [Squares of a Sorted Array](solutions/LC977.py) | Easy
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+## Programming paradigms
+
+### Backtracking
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+| 39 | [Combination Sum](solutions/LC39.py) | Medium
+| 46 | [Permutations](solutions/LC46.py) | Medium
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+### Greedy
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+| 42  | [Trapping Rain Water](solutions/LC42.py) | Hard
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+## Data Structures
+
+### Array
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|   26 | [Remove Duplicates from Sorted Array](solutions/LC26.py) | Easy
+|  121 | [Best Time to Buy and Sell Stock](solutions/LC121.py) | Easy
+|  169 | [Majority Element](solutions/LC169.py) | Easy
+|  189 | [Rotate Array](solutions/LC189.py) | Medium
+|  215 | [Kth Largest Element in an Array](solutions/LC215.py) | Medium
+| 238* | [Product of Array Except Self](solutions/LC238.py) | Medium
+|  704 | [Binary Search](solutions/LC704.py)| Easy
+| 1337 | [The K Weakest Rows in a Matrix](solutions/LC1337.py) | Easy
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+### Binary Heap
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|  347 | [Top K Frequent Elements](solutions/LC347.py) | Medium
+|  703 | [Kth Largest Element in a Stream](solutions/LC703.py) | Easy
+| 1046 | [Last Stone Weight](solutions/LC1046.py) | Easy
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+### Graph
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|  997 | [Find the Town Judge](solutions/LC997.py) | Easy
+| 1971 | [Find if Path Exists in Graph](solutions/LC1971.py) | Easy
+| 1791 | [Find Center of Star Graph](solutions/LC1791.py) | Easy
+|  210 | [Course Schedule II](solutions/LC210.py) | Medium
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+### Linked List
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|   21 | [Merge Two Sorted Lists](solutions/LC21.py) | Easy
+|  141 | [Linked List Cycle](solution/LC141.py) | Easy
+|  160 | [Intersection of Two Linked Lists](solutions/LC160.py) | Easy
+|    2 | [Add Two Numbers](solutions/LC2.py) | Medium
+|   19 | [Remove Nth Node From End of List](solutions/LC19.py) | Medium
+|  138 | [Copy List with Random Pointer](solutions/LC138.py) | Medium
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+### Hash Table
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|    1 | [Two Sum](solutions/LC1.py) | Easy
+|   13 | [Roman to Integer](solutions/LC13.py) | Easy
+|   36 | [Valid Sudoku](solutions/LC36.py) | Medium
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+### Stack
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|   20 | [Valid Parentheses](solutions/LC20.py) | Easy
+|  155 | [Min Stack](solutions/LC155.py) | Easy
+|  225 | [Implement Stack using Queues](solutions/LC225.py) | Easy
+|   71 | [Simplify Path](solutions/LC71.py) | Medium
+|  150 | [Evaluate Reverse Polish Notation](solutions/LC150.py) | Medium
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+### String
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|  771 | [Jewels and Stones](solution/LC771.py) | Easy
+|    3 | [Longest Substring Without Repeating Characters](solutions/LC3.py) | Medium
+|    5 | [Longest Palindromic Substring](solutions/LC5.py) | Medium
+|    8 | [String to Integer (atoi)](solutions/LC8.py) | Medium
+| 1344 | [Angle Between Hands of a Clock](solutions/LC1344.py) | Medium
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+### Tree
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|   94 | [Binary Tree Inorder Traversal](solutions/LC94.py) | Easy
+|  101 | [Symmetric Tree](solutions/LC101.py) | Easy
+|  104 | [Maximum Depth of Binary Tree](solutions/LC104.py) | Easy
+|   98 | [Validate Binary Search Tree](solutions/LC98.py) | Medium
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+## Algorithms
+
+### Binary Search
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+| 704 | [Binary Search](solutions/LC704.py) | Easy
+| 278 | [First Bad Version](solutions/LC278.py) | Easy
+|  35 | [Search Insert Position](solutions/LC35.py) | Easy
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+### Design
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+| 146 | [LRU Cache](solutions/LC146.py) | Medium
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>
+
+### Sorting
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|   88 | [Merge Sorted Array](solutions/LC88.py) | Easy
+
+<br/>
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+<br/>

@@ -1,6 +1,6 @@
-# Leetcode 704. Binary Search
+# Leetcode 278. First Bad Version
 #
-# Link: https://leetcode.com/problems/binary-search/
+# Link: https://leetcode.com/problems/first-bad-version/
 # Difficulty: Easy
 # Complexity:
 #   O(logN) time | where N represent the given number of program version
@@ -11,7 +11,7 @@
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-        
+
         left, right = 0, n
 
         while left < right:

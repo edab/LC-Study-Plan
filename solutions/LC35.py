@@ -3,7 +3,7 @@
 # Link: https://leetcode.com/problems/search-insert-position/
 # Difficulty: Easy
 # Complexity:
-#   O(logN) time | where N represent the given number of program version
+#   O(logN) time | where N represent the number of elements in the input array
 #   O(1) space
 
 class Solution:
@@ -12,7 +12,7 @@ class Solution:
 
         left, right = 0, len(nums) - 1
 
-        while left < right:
+        while left <= right:
 
             pivot = (left + right) // 2
 
@@ -23,4 +23,4 @@ class Solution:
             else:
                 return pivot
 
-        return left + 1  if target > nums[left] else left
+        return left

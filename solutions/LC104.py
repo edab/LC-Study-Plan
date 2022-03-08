@@ -6,11 +6,6 @@
 #   O(N) time | where N represent the number of nodes in the tree
 #   O(H) space | where H represent the heigth of the tree
 
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -43,7 +38,7 @@ class Solution:
 
           return result
 
-        def bfs_recursive(node):
+        def bfs_iterative(node):
           queue = deque([node])
           depth = 0
 
