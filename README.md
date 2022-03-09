@@ -33,14 +33,13 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
+|  167 | [Two Sum II - Input array is sorted](solutions/LC167.py)| Medium
 |  283 | [Move Zeroes](solutions/LC283.py)| Medium
 |  977 | [Squares of a Sorted Array](solutions/LC977.py) | Easy
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ## Programming paradigms
 
@@ -48,26 +47,22 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-| 39 | [Combination Sum](solutions/LC39.py) | Medium
-| 46 | [Permutations](solutions/LC46.py) | Medium
+|   39 | [Combination Sum](solutions/LC39.py) | Medium
+|   46 | [Permutations](solutions/LC46.py) | Medium
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ### Greedy
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-| 42  | [Trapping Rain Water](solutions/LC42.py) | Hard
+|   42 | [Trapping Rain Water](solutions/LC42.py) | Hard
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ## Data Structures
 
@@ -84,11 +79,9 @@ My solution for LeetCode problems using Python.
 |  704 | [Binary Search](solutions/LC704.py)| Easy
 | 1337 | [The K Weakest Rows in a Matrix](solutions/LC1337.py) | Easy
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ### Binary Heap
 
@@ -98,43 +91,37 @@ My solution for LeetCode problems using Python.
 |  703 | [Kth Largest Element in a Stream](solutions/LC703.py) | Easy
 | 1046 | [Last Stone Weight](solutions/LC1046.py) | Easy
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ### Graph
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|  997 | [Find the Town Judge](solutions/LC997.py) | Easy
-| 1971 | [Find if Path Exists in Graph](solutions/LC1971.py) | Easy
-| 1791 | [Find Center of Star Graph](solutions/LC1791.py) | Easy
 |  210 | [Course Schedule II](solutions/LC210.py) | Medium
+|  997 | [Find the Town Judge](solutions/LC997.py) | Easy
+| 1791 | [Find Center of Star Graph](solutions/LC1791.py) | Easy
+| 1971 | [Find if Path Exists in Graph](solutions/LC1971.py) | Easy
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ### Linked List
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|   21 | [Merge Two Sorted Lists](solutions/LC21.py) | Easy
-|  141 | [Linked List Cycle](solution/LC141.py) | Easy
-|  160 | [Intersection of Two Linked Lists](solutions/LC160.py) | Easy
 |    2 | [Add Two Numbers](solutions/LC2.py) | Medium
 |   19 | [Remove Nth Node From End of List](solutions/LC19.py) | Medium
+|   21 | [Merge Two Sorted Lists](solutions/LC21.py) | Easy
 |  138 | [Copy List with Random Pointer](solutions/LC138.py) | Medium
+|  141 | [Linked List Cycle](solution/LC141.py) | Easy
+|  160 | [Intersection of Two Linked Lists](solutions/LC160.py) | Easy
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ### Hash Table
 
@@ -144,58 +131,50 @@ My solution for LeetCode problems using Python.
 |   13 | [Roman to Integer](solutions/LC13.py) | Easy
 |   36 | [Valid Sudoku](solutions/LC36.py) | Medium
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ### Stack
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
 |   20 | [Valid Parentheses](solutions/LC20.py) | Easy
-|  155 | [Min Stack](solutions/LC155.py) | Easy
-|  225 | [Implement Stack using Queues](solutions/LC225.py) | Easy
 |   71 | [Simplify Path](solutions/LC71.py) | Medium
 |  150 | [Evaluate Reverse Polish Notation](solutions/LC150.py) | Medium
+|  155 | [Min Stack](solutions/LC155.py) | Easy
+|  225 | [Implement Stack using Queues](solutions/LC225.py) | Easy
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ### String
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|  771 | [Jewels and Stones](solution/LC771.py) | Easy
 |    3 | [Longest Substring Without Repeating Characters](solutions/LC3.py) | Medium
 |    5 | [Longest Palindromic Substring](solutions/LC5.py) | Medium
 |    8 | [String to Integer (atoi)](solutions/LC8.py) | Medium
+|  771 | [Jewels and Stones](solution/LC771.py) | Easy
 | 1344 | [Angle Between Hands of a Clock](solutions/LC1344.py) | Medium
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ### Tree
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
 |   94 | [Binary Tree Inorder Traversal](solutions/LC94.py) | Easy
+|   98 | [Validate Binary Search Tree](solutions/LC98.py) | Medium
 |  101 | [Symmetric Tree](solutions/LC101.py) | Easy
 |  104 | [Maximum Depth of Binary Tree](solutions/LC104.py) | Easy
-|   98 | [Validate Binary Search Tree](solutions/LC98.py) | Medium
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ## Algorithms
 
@@ -203,15 +182,13 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-| 704 | [Binary Search](solutions/LC704.py) | Easy
-| 278 | [First Bad Version](solutions/LC278.py) | Easy
 |  35 | [Search Insert Position](solutions/LC35.py) | Easy
+| 278 | [First Bad Version](solutions/LC278.py) | Easy
+| 704 | [Binary Search](solutions/LC704.py) | Easy
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ### Design
 
@@ -219,11 +196,9 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :---
 | 146 | [LRU Cache](solutions/LC146.py) | Medium
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
 
 ### Sorting
 
@@ -231,8 +206,6 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :---
 |   88 | [Merge Sorted Array](solutions/LC88.py) | Easy
 
-<br/>
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
-<br/>
