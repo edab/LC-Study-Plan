@@ -143,6 +143,7 @@ My solution for LeetCode problems using Python.
 |   71 | [Simplify Path](solutions/LC71.py) | Medium
 |  150 | [Evaluate Reverse Polish Notation](solutions/LC150.py) | Medium
 |  155 | [Min Stack](solutions/LC155.py) | Easy
+|  224 | [Basic Calculator](solutions/LC224.py)
 |  225 | [Implement Stack using Queues](solutions/LC225.py) | Easy
 
 <div align="right">
