@@ -34,7 +34,8 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
 |  167 | [Two Sum II - Input array is sorted](solutions/LC167.py)| Medium
-|  283 | [Move Zeroes](solutions/LC283.py)| Medium
+|  283 | [Move Zeroes](solutions/LC283.py) | Medium
+|  344 | [Reverse String](solutions/LC344.py) | Easy
 |  977 | [Squares of a Sorted Array](solutions/LC977.py) | Easy
 
 <div align="right">
@@ -157,6 +158,7 @@ My solution for LeetCode problems using Python.
 |    3 | [Longest Substring Without Repeating Characters](solutions/LC3.py) | Medium
 |    5 | [Longest Palindromic Substring](solutions/LC5.py) | Medium
 |    8 | [String to Integer (atoi)](solutions/LC8.py) | Medium
+|  557 | [Reverse Words in a String III](solution/reverse-words-in-a-string-iii.py) | Easy
 |  771 | [Jewels and Stones](solution/LC771.py) | Easy
 | 1344 | [Angle Between Hands of a Clock](solutions/LC1344.py) | Medium
 
