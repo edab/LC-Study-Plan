@@ -156,10 +156,11 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|    3 | [Longest Substring Without Repeating Characters](solutions/LC3.py) | Medium
+|    3 | [Longest Substring Without Repeating Characters](solutions/longest-substring-without-repeating-characters.py) | Medium
 |    5 | [Longest Palindromic Substring](solutions/LC5.py) | Medium
 |    8 | [String to Integer (atoi)](solutions/LC8.py) | Medium
 |  557 | [Reverse Words in a String III](solution/reverse-words-in-a-string-iii.py) | Easy
+|  567 | [Permutation in String](solution/permutation-in-string.py) | Medium
 |  771 | [Jewels and Stones](solution/LC771.py) | Easy
 | 1344 | [Angle Between Hands of a Clock](solutions/LC1344.py) | Medium
 
