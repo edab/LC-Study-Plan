@@ -1,7 +1,7 @@
 # Leetcode 557. Reverse Words in a String III
 #
-# Link: https://leetcode.com/problems/move-zeroes/
-# Difficulty: Medium
+# Link: https://leetcode.com/problems/reverse-words-in-a-string-iii/
+# Difficulty: Easy
 
 # Solution using lists
 # Complexity:

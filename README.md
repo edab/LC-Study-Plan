@@ -114,11 +114,12 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
 |    2 | [Add Two Numbers](solutions/LC2.py) | Medium
-|   19 | [Remove Nth Node From End of List](solutions/LC19.py) | Medium
+|   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium
 |   21 | [Merge Two Sorted Lists](solutions/LC21.py) | Easy
 |  138 | [Copy List with Random Pointer](solutions/LC138.py) | Medium
 |  141 | [Linked List Cycle](solution/LC141.py) | Easy
 |  160 | [Intersection of Two Linked Lists](solutions/LC160.py) | Easy
+|  876 | [Middle of the Linked List](solutions/middle-of-the-linked-list.py) | Easy
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
