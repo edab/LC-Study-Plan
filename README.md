@@ -101,8 +101,10 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
 |  210 | [Course Schedule II](solutions/LC210.py) | Medium
+|  542 | [01 Matrix](solutions/01-matrix.py) | Medium | BFS, DP
 |  695 | [Max Area of Island](solution/max-area-of-island.py) | Medium
 |  733 | [Flood Fill](solutions/flood-fill.py) | Easy
+|  994 | [Rotting Oranges](solutions/rotting-oranges.py) | Medium | BFS
 |  997 | [Find the Town Judge](solutions/LC997.py) | Easy
 | 1791 | [Find Center of Star Graph](solutions/LC1791.py) | Easy
 | 1971 | [Find if Path Exists in Graph](solutions/LC1971.py) | Easy
