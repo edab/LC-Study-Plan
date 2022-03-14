@@ -101,6 +101,8 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
 |  210 | [Course Schedule II](solutions/LC210.py) | Medium
+|  695 | [Max Area of Island](solution/max-area-of-island.py) | Medium
+|  733 | [Flood Fill](solutions/flood-fill.py) | Easy
 |  997 | [Find the Town Judge](solutions/LC997.py) | Easy
 | 1791 | [Find Center of Star Graph](solutions/LC1791.py) | Easy
 | 1971 | [Find if Path Exists in Graph](solutions/LC1971.py) | Easy
@@ -114,12 +116,12 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
 |    2 | [Add Two Numbers](solutions/LC2.py) | Medium
-|   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium
+|   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium | Two Pointers
 |   21 | [Merge Two Sorted Lists](solutions/LC21.py) | Easy
 |  138 | [Copy List with Random Pointer](solutions/LC138.py) | Medium
 |  141 | [Linked List Cycle](solution/LC141.py) | Easy
 |  160 | [Intersection of Two Linked Lists](solutions/LC160.py) | Easy
-|  876 | [Middle of the Linked List](solutions/middle-of-the-linked-list.py) | Easy
+|  876 | [Middle of the Linked List](solutions/middle-of-the-linked-list.py) | Easy | Two Pointers
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -156,11 +158,11 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|    3 | [Longest Substring Without Repeating Characters](solutions/longest-substring-without-repeating-characters.py) | Medium
+|    3 | [Longest Substring Without Repeating Characters](solutions/longest-substring-without-repeating-characters.py) | Medium | Sliding Window
 |    5 | [Longest Palindromic Substring](solutions/LC5.py) | Medium
 |    8 | [String to Integer (atoi)](solutions/LC8.py) | Medium
 |  557 | [Reverse Words in a String III](solution/reverse-words-in-a-string-iii.py) | Easy
-|  567 | [Permutation in String](solution/permutation-in-string.py) | Medium
+|  567 | [Permutation in String](solution/permutation-in-string.py) | Medium | Sliding Window
 |  771 | [Jewels and Stones](solution/LC771.py) | Easy
 | 1344 | [Angle Between Hands of a Clock](solutions/LC1344.py) | Medium
 
