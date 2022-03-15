@@ -178,6 +178,8 @@ My solution for LeetCode problems using Python.
 |   98 | [Validate Binary Search Tree](solutions/LC98.py) | Medium
 |  101 | [Symmetric Tree](solutions/LC101.py) | Easy
 |  104 | [Maximum Depth of Binary Tree](solutions/LC104.py) | Easy
+|  116 | [Populating Next Right Pointers in Each Node](solutions/populating-next-right-pointers-in-each-node.py) | Easy
+|  617 | [Merge Two Binary Trees](solutions/merge-two-binary-trees.py) | Medium
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
