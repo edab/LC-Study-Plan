@@ -161,7 +161,7 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
 |    3 | [Longest Substring Without Repeating Characters](solutions/longest-substring-without-repeating-characters.py) | Medium | Sliding Window
-|    5 | [Longest Palindromic Substring](solutions/LC5.py) | Medium
+|    5 | [Longest Palindromic Substring](solutions/longest-palindromic-substring.py) | Medium
 |    8 | [String to Integer (atoi)](solutions/LC8.py) | Medium
 |  557 | [Reverse Words in a String III](solution/reverse-words-in-a-string-iii.py) | Easy
 |  567 | [Permutation in String](solution/permutation-in-string.py) | Medium | Sliding Window
