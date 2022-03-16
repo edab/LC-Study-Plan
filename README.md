@@ -35,8 +35,8 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :---
 |  167 | [Two Sum II - Input array is sorted](solutions/LC167.py)| Medium
 |  283 | [Move Zeroes](solutions/LC283.py) | Medium
-|  344 | [Reverse String](solutions/LC344.py) | Easy
-|  977 | [Squares of a Sorted Array](solutions/LC977.py) | Easy
+|  344 | [Reverse String](solutions/reverse-string.py) | Easy
+|  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
