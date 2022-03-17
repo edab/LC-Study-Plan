@@ -119,7 +119,7 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :---
 |    2 | [Add Two Numbers](solutions/LC2.py) | Medium
 |   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium | Two Pointers
-|   21 | [Merge Two Sorted Lists](solutions/LC21.py) | Easy
+|   21 | [Merge Two Sorted Lists](solutions/merge-two-sorted-lists.py) | Easy
 |  138 | [Copy List with Random Pointer](solutions/LC138.py) | Medium
 |  141 | [Linked List Cycle](solution/LC141.py) | Easy
 |  160 | [Intersection of Two Linked Lists](solutions/LC160.py) | Easy
