@@ -11,6 +11,7 @@ My solution for LeetCode problems using Python.
 
 - Techniques
   - [Two Pointers](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#two-pointers)
+  - [BackTracking](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#backtracking)
 - Programming paradigms
   - [Greedy](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#greedy)
 - Data Structures
@@ -37,6 +38,18 @@ My solution for LeetCode problems using Python.
 |  283 | [Move Zeroes](solutions/LC283.py) | Medium
 |  344 | [Reverse String](solutions/reverse-string.py) | Easy
 |  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy
+
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+
+### BackTracking
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|   46 | [Permutations](solutions/permutations.py) | Medium
+|   77 | [Combinations](solutions/combinations.py) | Medium
+|  784 | [Letter Case Permutation](solutions/letter-case-permutation.py) | Medium
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
