@@ -7,7 +7,7 @@
 # Solution using backtracking
 # Complexity:
 #   O(N^K) time | where N represent the number of elements in the input array and K
-#   O(1) space
+#   O(K) space
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
 

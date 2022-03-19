@@ -12,6 +12,7 @@ My solution for LeetCode problems using Python.
 - Techniques
   - [Two Pointers](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#two-pointers)
   - [BackTracking](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#backtracking)
+  - [Dynamic Programming](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#dynamic-programming)
 - Programming paradigms
   - [Greedy](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#greedy)
 - Data Structures
@@ -50,6 +51,18 @@ My solution for LeetCode problems using Python.
 |   46 | [Permutations](solutions/permutations.py) | Medium
 |   77 | [Combinations](solutions/combinations.py) | Medium
 |  784 | [Letter Case Permutation](solutions/letter-case-permutation.py) | Medium
+
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+
+### Dynamic Programming
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|   70 | [Climbing Stairs](solutions/climbing-stairs.py) | Easy
+|  120 | [Triangle](solutions/triangle.py)
+|  198 | [House Robber](solutions/house-robber.py) | Medium
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
