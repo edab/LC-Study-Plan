@@ -10,10 +10,11 @@ My solution for LeetCode problems using Python.
 ## Topics
 
 - Techniques
+  - [Bit Manipulation](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#bit-manipulation)
   - [Two Pointers](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#two-pointers)
+- Programming paradigms
   - [BackTracking](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#backtracking)
   - [Dynamic Programming](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#dynamic-programming)
-- Programming paradigms
   - [Greedy](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#greedy)
 - Data Structures
   - [Array](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#array)
@@ -44,11 +45,25 @@ My solution for LeetCode problems using Python.
     <b><a href="#topics">Back to Top</a></b>
 </div>
 
-### BackTracking
+### Bit Manipulation
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|   46 | [Permutations](solutions/permutations.py) | Medium
+|  231 | [Power of Two](solutions/power-of-two.py)| Easy
+|  191 | [Number of 1 Bits](solutions/number-of-1-bits.py) | Easy
+
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+
+## Programming paradigms
+
+### Backtracking
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|   39 | [Combination Sum](solutions/LC39.py) | Medium
+|   46 | [Permutations](solutions/LC46.py) | Medium
 |   77 | [Combinations](solutions/combinations.py) | Medium
 |  784 | [Letter Case Permutation](solutions/letter-case-permutation.py) | Medium
 
@@ -63,19 +78,6 @@ My solution for LeetCode problems using Python.
 |   70 | [Climbing Stairs](solutions/climbing-stairs.py) | Easy
 |  120 | [Triangle](solutions/triangle.py)
 |  198 | [House Robber](solutions/house-robber.py) | Medium
-
-<div align="right">
-    <b><a href="#topics">Back to Top</a></b>
-</div>
-
-## Programming paradigms
-
-### Backtracking
-
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|   39 | [Combination Sum](solutions/LC39.py) | Medium
-|   46 | [Permutations](solutions/LC46.py) | Medium
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
