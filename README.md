@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
-![Progress](https://img.shields.io/badge/progress-65%20%2F%202198-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-70%20%2F%202198-ff69b4.svg)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edab.leetcode.studyplan)
 
 My solution for LeetCode problems using Python.
@@ -36,7 +36,7 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|  136 | [Single Number](solutions/single-number.py)
+|  136 | [Single Number](solutions/single-number.py) | Easy
 |  190 | [Reverse Bits](solutions/reverse-bits.py) | Easy
 |  191 | [Number of 1 Bits](solutions/number-of-1-bits.py) | Easy
 |  231 | [Power of Two](solutions/power-of-two.py)| Easy
@@ -130,7 +130,8 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|  210 | [Course Schedule II](solutions/LC210.py) | Medium
+|  200 | [Number of Island](solutions/number-of-islands.py) | Medium
+|  210 | [Course Schedule II](solutions/course-schedule-ii.py) | Medium
 |  542 | [01 Matrix](solutions/01-matrix.py) | Medium | BFS, DP
 |  695 | [Max Area of Island](solution/max-area-of-island.py) | Medium
 |  733 | [Flood Fill](solutions/flood-fill.py) | Easy
