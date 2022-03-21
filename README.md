@@ -32,6 +32,19 @@ My solution for LeetCode problems using Python.
 
 ## Techniques
 
+### Bit Manipulation
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|  136 | [Single Number](solutions/single-number.py)
+|  190 | [Reverse Bits](solutions/reverse-bits.py) | Easy
+|  191 | [Number of 1 Bits](solutions/number-of-1-bits.py) | Easy
+|  231 | [Power of Two](solutions/power-of-two.py)| Easy
+
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+
 ### Two Pointers
 
 |    # | Title | Level | Tags
@@ -40,17 +53,6 @@ My solution for LeetCode problems using Python.
 |  283 | [Move Zeroes](solutions/LC283.py) | Medium
 |  344 | [Reverse String](solutions/reverse-string.py) | Easy
 |  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy
-
-<div align="right">
-    <b><a href="#topics">Back to Top</a></b>
-</div>
-
-### Bit Manipulation
-
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|  231 | [Power of Two](solutions/power-of-two.py)| Easy
-|  191 | [Number of 1 Bits](solutions/number-of-1-bits.py) | Easy
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
