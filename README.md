@@ -137,6 +137,7 @@ My solution for LeetCode problems using Python.
 |  733 | [Flood Fill](solutions/flood-fill.py) | Easy
 |  994 | [Rotting Oranges](solutions/rotting-oranges.py) | Medium | BFS
 |  997 | [Find the Town Judge](solutions/LC997.py) | Easy
+| 1254 | [Number of Closed Islands](solutions/number-of-closed-islands.py) | Medium | DFS 2 pass
 | 1791 | [Find Center of Star Graph](solutions/LC1791.py) | Easy
 | 1971 | [Find if Path Exists in Graph](solutions/LC1971.py) | Easy
 
