@@ -138,7 +138,7 @@ My solution for LeetCode problems using Python.
 |  210 | [Course Schedule II](solutions/course-schedule-ii.py) | Medium
 |  417 | [Pacific Atlantic Water Flow](solutions/pacific-atlantic-water-flow.py) | Medium | DFS and Sets
 |  542 | [01 Matrix](solutions/01-matrix.py) | Medium | BFS, DP
-|  695 | [Max Area of Island](solution/max-area-of-island.py) | Medium
+|  695 | [Max Area of Island](solutions/max-area-of-island.py) | Medium
 |  733 | [Flood Fill](solutions/flood-fill.py) | Easy
 |  994 | [Rotting Oranges](solutions/rotting-oranges.py) | Medium | BFS multi source
 |  997 | [Find the Town Judge](solutions/find-the-town-judge.py) | Easy
@@ -216,8 +216,8 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|   94 | [Binary Tree Inorder Traversal](solutions/LC94.py) | Easy
-|   98 | [Validate Binary Search Tree](solutions/LC98.py) | Medium
+|   94 | [Binary Tree Inorder Traversal](solutions/binary-tree-inorder-traversal.py) | Easy
+|   98 | [Validate Binary Search Tree](solutions/validate-binary-search-tree.py) | Medium
 |  101 | [Symmetric Tree](solutions/LC101.py) | Easy
 |  104 | [Maximum Depth of Binary Tree](solutions/LC104.py) | Easy
 |  116 | [Populating Next Right Pointers in Each Node](solutions/populating-next-right-pointers-in-each-node.py) | Easy
