@@ -3,8 +3,7 @@
 # Link: https://leetcode.com/problems/01-matrix/
 # Difficulty: Medium
 
-# Solution using two passes, one for left and up check, the next for right and
-# bottom.
+# Solution using DP.
 # Complexity:
 #   O(M*N) time | where M and N represent the rows and cols of the input matrix
 #   O(1) space

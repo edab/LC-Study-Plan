@@ -80,6 +80,8 @@ My solution for LeetCode problems using Python.
 |   70 | [Climbing Stairs](solutions/climbing-stairs.py) | Easy
 |  120 | [Triangle](solutions/triangle.py)
 |  198 | [House Robber](solutions/house-robber.py) | Medium
+|  303 | [Range Sum Query - Immutable](solutions/range-sum-query-immutable.py) | Easy
+|  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -130,16 +132,22 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
+|  133 | [Clone Graph](solutions/clone-graph.py) | Medium
 |  200 | [Number of Island](solutions/number-of-islands.py) | Medium
+|  207 | [Course Schedule](solutions/course-schedule.py) | Medium | DFS cycle
 |  210 | [Course Schedule II](solutions/course-schedule-ii.py) | Medium
+|  417 | [Pacific Atlantic Water Flow](solutions/pacific-atlantic-water-flow.py) | Medium | DFS and Sets
 |  542 | [01 Matrix](solutions/01-matrix.py) | Medium | BFS, DP
 |  695 | [Max Area of Island](solution/max-area-of-island.py) | Medium
 |  733 | [Flood Fill](solutions/flood-fill.py) | Easy
-|  994 | [Rotting Oranges](solutions/rotting-oranges.py) | Medium | BFS
-|  997 | [Find the Town Judge](solutions/LC997.py) | Easy
+|  994 | [Rotting Oranges](solutions/rotting-oranges.py) | Medium | BFS multi source
+|  997 | [Find the Town Judge](solutions/find-the-town-judge.py) | Easy
+| 1020 | [Number of Enclaves](solutions/number-of-enclaves.py) | Medium | DFS
+| 1162 | [As Far from Land as Possible](solutions/as-far-from-land-as-possible.py) | Medium | BFS multi source
 | 1254 | [Number of Closed Islands](solutions/number-of-closed-islands.py) | Medium | DFS 2 pass
-| 1791 | [Find Center of Star Graph](solutions/LC1791.py) | Easy
-| 1971 | [Find if Path Exists in Graph](solutions/LC1971.py) | Easy
+| 1791 | [Find Center of Star Graph](solutions/find-center-of-star-graph.py) | Easy
+| 1905 | [Count Sub Islands](solutions/count-sub-islands.py) | Medium
+| 1971 | [Find if Path Exists in Graph](solutions/find-if-path-exists-in-graph.py) | Easy | DFS_(i, r) and BFS_(i, r)
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -149,7 +157,7 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|    2 | [Add Two Numbers](solutions/LC2.py) | Medium
+|    2 | [Add Two Numbers](solutions/add-two-numbers.py) | Medium
 |   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium | Two Pointers
 |   21 | [Merge Two Sorted Lists](solutions/merge-two-sorted-lists.py) | Easy
 |  138 | [Copy List with Random Pointer](solutions/LC138.py) | Medium
@@ -165,7 +173,7 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|    1 | [Two Sum](solutions/LC1.py) | Easy
+|    1 | [Two Sum](solutions/two-sum.py) | Easy
 |   13 | [Roman to Integer](solutions/LC13.py) | Easy
 |   36 | [Valid Sudoku](solutions/LC36.py) | Medium
 
@@ -237,7 +245,7 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-| 146 | [LRU Cache](solutions/LC146.py) | Medium
+| 146 | [LRU Cache](solutions/lru-cache.py) | Medium
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>

@@ -3,10 +3,10 @@
 # Link: https://leetcode.com/problems/rotting-oranges/
 # Difficulty: Medium
 
-# Solution using multi source BFS.
+# Solution using multi source BFS changing grid values instead of visited set.
 # Complexity:
 #   O(M*N) time | where M and N represent the rows and cols of the input matrix
-#   O(M*N) space | where M and N represent the rows and cols of the input matrix
+#   O(1) space
 
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:

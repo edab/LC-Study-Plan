@@ -6,7 +6,7 @@
 #   O(V+E) time | where V represent the number of Vertex and E the number of Edges
 #   O(V+E) space | where V represent the number of Vertex and E the number of Edges
 
-cclass Solution:
+class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
 
         adj_list = { course:[] for course in range(numCourses) }
@@ -44,4 +44,3 @@ cclass Solution:
             return []
 
         return output
-          

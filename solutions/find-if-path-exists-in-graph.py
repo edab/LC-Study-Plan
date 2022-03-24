@@ -2,6 +2,8 @@
 #
 # Link: https://leetcode.com/problems/find-if-path-exists-in-graph/
 # Difficulty: Easy
+
+# Solution using DFS (iterative, recursive) and BFS (iterative, recursive)
 # Complexity:
 #   O(V+E) time | where V represent the number of Vertex and E the number of Edges
 #   O(V+E) space | where V represent the number of Vertex and E the number of Edges

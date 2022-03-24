@@ -2,10 +2,11 @@
 #
 # Link: https://leetcode.com/problems/find-the-town-judge/
 # Difficulty: Easy
+
+# Solution using counting array
 # Complexity:
 #   O(N) time | where N represent the number of people
 #   O(N) space | where N represent the number of people
-
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
 

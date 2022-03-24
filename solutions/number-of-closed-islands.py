@@ -6,7 +6,7 @@
 # Solution using two pass DFS, one for removing perimeter islands, one for count
 # Complexity:
 #   O(M*N) time | where M and N represent the rows and cols of the input image
-#   O(M*N) space | where M and N represent the rows and cols of the input image
+#   O(1) space
 
 class Solution:
     def closedIsland(self, grid: List[List[int]]) -> int:

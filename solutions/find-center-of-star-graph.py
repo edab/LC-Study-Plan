@@ -1,7 +1,9 @@
 # Leetcode 1791. Find Center of Star Graph
 #
-# Link: https://leetcode.com/problems/find-if-path-exists-in-graph/
+# Link: https://leetcode.com/problems/find-center-of-star-graph/
 # Difficulty: Easy
+
+# Solution using sets or adjacency list itself
 # Complexity:
 #   O(1) time
 #   O(1) space
