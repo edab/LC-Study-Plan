@@ -143,6 +143,7 @@ My solution for LeetCode problems using Python.
 |  994 | [Rotting Oranges](solutions/rotting-oranges.py) | Medium | BFS multi source
 |  997 | [Find the Town Judge](solutions/find-the-town-judge.py) | Easy
 | 1020 | [Number of Enclaves](solutions/number-of-enclaves.py) | Medium | DFS
+| 1091 | [Shortest Path in Binary Matrix](solutions/shortest-path-in-binary-matrix.py) | Medium | BFS
 | 1162 | [As Far from Land as Possible](solutions/as-far-from-land-as-possible.py) | Medium | BFS multi source
 | 1254 | [Number of Closed Islands](solutions/number-of-closed-islands.py) | Medium | DFS 2 pass
 | 1791 | [Find Center of Star Graph](solutions/find-center-of-star-graph.py) | Easy

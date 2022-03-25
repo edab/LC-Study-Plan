@@ -41,27 +41,25 @@ class Solution:
     def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
 
         ROWS, COLS = len(mat), len(mat[0])
+        DIRECTIONS = ((1, 0), (0, 1), (-1, 0), (0, -1))
 
-        def bfs():
+        q = deque()
+        visited = set()
 
-            q = deque()
-            visited = set()
-
-            for r in range(ROWS):
-                for c in range(COLS):
-                    if mat[r][c] == 0:
-                        q.append((r, c))
-                        visited.add((r, c))
-
-            while q:
-                x, y = q.popleft()
-                for dx, dy in [(1, 0), (0, 1), (-1, 0), (0, -1)]:
-                    newX, newY = x + dx, y + dy
-                    if 0 <= newX < ROWS and 0 <= newY < COLS and (newX, newY) not in visited:
-                        q.append((newX, newY))
-                        visited.add((newX, newY))
-                        mat[newX][newY] = mat[x][y] + 1
-
-        bfs()
+        for r in range(ROWS):
+            for c in range(COLS):
+                if mat[r][c] == 0:
+                    q.append((r, c))
+                    visited.add((r, c))
+        while q:
+            r, c = q.popleft()
+            for dr, dc in DIRECTIONS:
+                nr, nc = r + dr, c + dc
+                if (nr in range(ROWS) and
+                    nc in range(COLS) and
+                    (nr, nc) not in visited):
+                    q.append((nr, nc))
+                    visited.add((nr, nc))
+                    mat[nr][nc] = mat[r][c] + 1
 
         return mat
