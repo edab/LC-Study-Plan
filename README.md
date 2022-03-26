@@ -132,8 +132,8 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|  133 | [Clone Graph](solutions/clone-graph.py) | Medium
-|  200 | [Number of Island](solutions/number-of-islands.py) | Medium
+|  133 | [Clone Graph](solutions/clone-graph.py) | Medium | DFS
+|  200 | [Number of Island](solutions/number-of-islands.py) | Medium | DFS, BFS
 |  207 | [Course Schedule](solutions/course-schedule.py) | Medium | DFS cycle
 |  210 | [Course Schedule II](solutions/course-schedule-ii.py) | Medium
 |  417 | [Pacific Atlantic Water Flow](solutions/pacific-atlantic-water-flow.py) | Medium | DFS and Sets
@@ -142,6 +142,7 @@ My solution for LeetCode problems using Python.
 |  733 | [Flood Fill](solutions/flood-fill.py) | Easy
 |  797 | [All Paths From Source to Target](solutions/all-paths-from-source-to-target.py) | Medium
 |  841 | [Keys and Rooms](solutions/keys-and-rooms.py) | Medium
+|  934 | [Shortest Bridge](solutions/shortest-bridge.py) | Medium | BFS multi source and DFS
 |  994 | [Rotting Oranges](solutions/rotting-oranges.py) | Medium | BFS multi source
 |  997 | [Find the Town Judge](solutions/find-the-town-judge.py) | Easy
 | 1020 | [Number of Enclaves](solutions/number-of-enclaves.py) | Medium | DFS
@@ -150,6 +151,7 @@ My solution for LeetCode problems using Python.
 | 1254 | [Number of Closed Islands](solutions/number-of-closed-islands.py) | Medium | DFS 2 pass
 | 1791 | [Find Center of Star Graph](solutions/find-center-of-star-graph.py) | Easy
 | 1905 | [Count Sub Islands](solutions/count-sub-islands.py) | Medium
+| 1926 | [Nearest Exit from Entrance in Maze](solutions/nearest-exit-from-entrance-in-maze.py)
 | 1971 | [Find if Path Exists in Graph](solutions/find-if-path-exists-in-graph.py) | Easy | DFS_(i, r) and BFS_(i, r)
 
 <div align="right">
