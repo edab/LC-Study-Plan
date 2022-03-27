@@ -140,6 +140,8 @@ My solution for LeetCode problems using Python.
 |  542 | [01 Matrix](solutions/01-matrix.py) | Medium | BFS, DP
 |  695 | [Max Area of Island](solutions/max-area-of-island.py) | Medium
 |  733 | [Flood Fill](solutions/flood-fill.py) | Easy
+|  797 | [All Paths From Source to Target](solutions/all-paths-from-source-to-target.py) | Medium
+|  841 | [Keys and Rooms](solutions/keys-and-rooms.py) | Medium
 |  994 | [Rotting Oranges](solutions/rotting-oranges.py) | Medium | BFS multi source
 |  997 | [Find the Town Judge](solutions/find-the-town-judge.py) | Easy
 | 1020 | [Number of Enclaves](solutions/number-of-enclaves.py) | Medium | DFS
@@ -219,9 +221,12 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :---
 |   94 | [Binary Tree Inorder Traversal](solutions/binary-tree-inorder-traversal.py) | Easy
 |   98 | [Validate Binary Search Tree](solutions/validate-binary-search-tree.py) | Medium
-|  101 | [Symmetric Tree](solutions/LC101.py) | Easy
+|  101 | [Symmetric Tree](solutions/symmetric-tree.py) | Easy
+|  102 | [Binary Tree Level Order Traversal](solutions/binary-tree-level-order-traversal.py) | Medium | BFS
 |  104 | [Maximum Depth of Binary Tree](solutions/LC104.py) | Easy
+|  105 | [Construct Binary Tree from Preorder and Inorder Traversal](aolutions/construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium
 |  116 | [Populating Next Right Pointers in Each Node](solutions/populating-next-right-pointers-in-each-node.py) | Easy
+|  236 | [Lowest Common Ancestor of a Binary Tree](solutions/lowest-common-ancestor-of-a-binary-tree.py) | Medium
 |  617 | [Merge Two Binary Trees](solutions/merge-two-binary-trees.py) | Medium
 
 <div align="right">
