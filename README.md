@@ -64,8 +64,8 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|   39 | [Combination Sum](solutions/LC39.py) | Medium
-|   46 | [Permutations](solutions/LC46.py) | Medium
+|   39 | [Combination Sum](solutions/combination-sum.py) | Medium
+|   46 | [Permutations](solutions/permutations.py) | Medium
 |   77 | [Combinations](solutions/combinations.py) | Medium
 |  784 | [Letter Case Permutation](solutions/letter-case-permutation.py) | Medium
 
@@ -184,6 +184,7 @@ My solution for LeetCode problems using Python.
 |    1 | [Two Sum](solutions/two-sum.py) | Easy
 |   13 | [Roman to Integer](solutions/LC13.py) | Easy
 |   36 | [Valid Sudoku](solutions/LC36.py) | Medium
+|   49 | [](solutions/group-anagrams.py)
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
