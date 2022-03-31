@@ -103,13 +103,14 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|   26 | [Remove Duplicates from Sorted Array](solutions/LC26.py) | Easy
+|   26 | [Remove Duplicates from Sorted Array](solutions/remove-duplicates-from-sorted-array.py) | Easy
 |  121 | [Best Time to Buy and Sell Stock](solutions/LC121.py) | Easy
 |  169 | [Majority Element](solutions/LC169.py) | Easy
 |  189 | [Rotate Array](solutions/LC189.py) | Medium
 |  215 | [Kth Largest Element in an Array](solutions/LC215.py) | Medium
 | 238* | [Product of Array Except Self](solutions/LC238.py) | Medium
 |  704 | [Binary Search](solutions/LC704.py)| Easy
+|  807 | [Max Increase to Keep City Skyline](solution/max-increase-to-keep-city-skyline.py) | Medium
 | 1337 | [The K Weakest Rows in a Matrix](solutions/LC1337.py) | Easy
 
 <div align="right">
