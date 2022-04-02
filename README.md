@@ -20,8 +20,9 @@ My solution for LeetCode problems using Python.
   - [Array](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#array)
   - [Binary Heap](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#binary-heap)
   - [Graph](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#graph)
-  - [Linked List](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#linked-list)
   - [Hash Table](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#hash-table)
+  - [Linked List](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#linked-list)
+  - [Queue](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#array)
   - [Stack](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#stack)
   - [String](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#string)
   - [Tree](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#tree)
@@ -161,6 +162,19 @@ My solution for LeetCode problems using Python.
     <b><a href="#topics">Back to Top</a></b>
 </div>
 
+### Hash Table
+
+|    # | Title | Level | Tags
+| ---: | ----  | :---  | :---
+|    1 | [Two Sum](solutions/two-sum.py) | Easy
+|   13 | [Roman to Integer](solutions/LC13.py) | Easy
+|   36 | [Valid Sudoku](solutions/LC36.py) | Medium
+|   49 | [](solutions/group-anagrams.py)
+
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+
 ### Linked List
 
 |    # | Title | Level | Tags
@@ -177,14 +191,13 @@ My solution for LeetCode problems using Python.
     <b><a href="#topics">Back to Top</a></b>
 </div>
 
-### Hash Table
+### Queue
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|    1 | [Two Sum](solutions/two-sum.py) | Easy
-|   13 | [Roman to Integer](solutions/LC13.py) | Easy
-|   36 | [Valid Sudoku](solutions/LC36.py) | Medium
-|   49 | [](solutions/group-anagrams.py)
+|  239 | [Sliding Window Maximum](solutions/sliding-window-maximum.py) | Hard | MaxQueue
+|  341 | [Flatten Nested List Iterator](solutions/flatten-nested-list-iterator.py) | Medium | Recursion
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](solutions/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | Medium | Min/Max Queue
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
