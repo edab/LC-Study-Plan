@@ -68,6 +68,7 @@ My solution for LeetCode problems using Python.
 |   39 | [Combination Sum](solutions/combination-sum.py) | Medium
 |   46 | [Permutations](solutions/permutations.py) | Medium
 |   77 | [Combinations](solutions/combinations.py) | Medium
+|   79 | [Word Search](solutions/word-search.py) | Medium
 |  784 | [Letter Case Permutation](solutions/letter-case-permutation.py) | Medium
 
 <div align="right">
@@ -245,6 +246,9 @@ My solution for LeetCode problems using Python.
 |  104 | [Maximum Depth of Binary Tree](solutions/LC104.py) | Easy
 |  105 | [Construct Binary Tree from Preorder and Inorder Traversal](aolutions/construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium
 |  116 | [Populating Next Right Pointers in Each Node](solutions/populating-next-right-pointers-in-each-node.py) | Easy
+|  208 | [Implement Trie (Prefix Tree)](solutions/implement-trie-prefix-tree.py) | Medium
+|  211 | [Design Add and Search Words Data Structure](solutions/design-add-and-search-words-data-structure.py) | Medium
+|  212 | [Word Search II](solutions/word-search-ii.py)
 |  236 | [Lowest Common Ancestor of a Binary Tree](solutions/lowest-common-ancestor-of-a-binary-tree.py) | Medium
 |  617 | [Merge Two Binary Trees](solutions/merge-two-binary-trees.py) | Medium
 
