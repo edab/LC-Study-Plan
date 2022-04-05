@@ -93,7 +93,9 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Tags
 | ---: | ----  | :---  | :---
-|   42 | [Trapping Rain Water](solutions/LC42.py) | Hard
+|   42 | [Trapping Rain Water](solutions/trapping-rain-water.py) | Hard
+|   55 | [Jump Game](solutions/jump-game.py) | Medium
+|  134 | [Gas Station](solutions/gas-station.py)
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
