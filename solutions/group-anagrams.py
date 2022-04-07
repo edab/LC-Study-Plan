@@ -2,16 +2,22 @@
 #
 # Link: https://leetcode.com/problems/group-anagrams/
 # Difficulty: Medium
+
+# Solution using counter
 # Complexity:
-#   O(N*MlogM) time | where N represent the number of words and M the lenght
+#   O(N*M) time | where N represent the number of words and M the lenght
 #   O(N*M) space | where N represent the number of words and M the lenght
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
 
-        d = defaultdict(list)
+        result = defaultdict(list)
 
-        for w in strs:
-            key = tuple(sorted(w))
-            d[key].append(w)
+        for word in strs:
+            count_char = [0] * 26
 
-        return d.values()
+            for char in word:
+                count_char[ord(char) - ord('a')] += 1
+
+            result[tuple(count_char)].append(word)
+
+        return result.values()

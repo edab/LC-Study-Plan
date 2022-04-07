@@ -109,10 +109,11 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :--- | :---  | :---
 |   26 | [Remove Duplicates from Sorted Array](solutions/remove-duplicates-from-sorted-array.py) | Easy | . | . |
 |  121 | [Best Time to Buy and Sell Stock](solutions/best-time-to-buy-and-sell-stock.py) | Easy | . | . |
+|  128 | [Longest Consecutive Sequence](solutions/longest-consecutive-sequence.py) | O(α(n)) | O(n) | DSU, HashSet, HashMap
 |  169 | [Majority Element](solutions/majority-element.py) | Easy | . | . |
 |  189 | [Rotate Array](solutions/rotate-array.py) | Medium | . | . |
 |  215 | [Kth Largest Element in an Array](solutions/kth-largest-element-in-an-array.py) | Medium | . | . |
-| 238* | [Product of Array Except Self](solutions/product-of-array-except-self.py) | Medium | . | . |
+| 238* | [Product of Array Except Self](solutions/product-of-array-except-self.py) | Medium | O(n) | O(1) |
 |  704 | [Binary Search](solutions/binary-search.py)| Easy | . | . |
 |  807 | [Max Increase to Keep City Skyline](solution/max-increase-to-keep-city-skyline.py) | Medium | . | . |
 | 1337 | [The K Weakest Rows in a Matrix](solutions/the-k-weakest-rows-in-a-matrix.py) | Easy | . | . |
@@ -125,7 +126,7 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
-|  347 | [Top K Frequent Elements](solutions/top-k-frequent-elements.py) | Medium | . | . |
+|  347 | [Top K Frequent Elements](solutions/top-k-frequent-elements.py) | Medium | O(n) | O(n) |
 |  703 | [Kth Largest Element in a Stream](solutions/kth-largest-element-in-a-stream.py) | Easy | . | . |
 | 1046 | [Last Stone Weight](solutions/last-stone-weight.py) | Easy | . | . |
 
@@ -169,10 +170,10 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
-|    1 | [Two Sum](solutions/two-sum.py) | Easy | . | . |
+|    1 | [Two Sum](solutions/two-sum.py) | Easy | O(n) | O(n) |
 |   13 | [Roman to Integer](solutions/roman-to-integer.py) | Easy | . | . |
 |   36 | [Valid Sudoku](solutions/valid-sudoku.py) | Medium | . | . |
-|   49 | [](solutions/group-anagrams.py) | Medium | . | . |
+|   49 | [Group Anagrams](solutions/group-anagrams.py) | Medium | O(n*m) | O(n*m) |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -225,7 +226,7 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
-|    3 | [Longest Substring Without Repeating Characters](solutions/longest-substring-without-repeating-characters.py) | Medium | . | . | Sliding Window
+|    3 | [Longest Substring Without Repeating Characters](solutions/O(α(N))12-substring-without-repeating-characters.py) | Medium | . | . | Sliding Window
 |    5 | [Longest Palindromic Substring](solutions/longest-palindromic-substring.py) | Medium | . | . |
 |    8 | [String to Integer (atoi)](solutions/string-to-integer-atoi.py) | Medium | . | . |
 |  557 | [Reverse Words in a String III](solution/reverse-words-in-a-string-iii.py) | Easy | . | . |
@@ -239,12 +240,12 @@ My solution for LeetCode problems using Python.
 
 ### Tree
 
-||    # | Title | Level | Time | Space | Tags   
+|    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
 |   94 | [Binary Tree Inorder Traversal](solutions/binary-tree-inorder-traversal.py) | Easy | . | . |
 |   98 | [Validate Binary Search Tree](solutions/validate-binary-search-tree.py) | Medium | . | . |
 |  101 | [Symmetric Tree](solutions/symmetric-tree.py) | Easy | . | . |
-|  102 | [Binary Tree Level Order Traversal](solutions/binary-tree-level-order-traversal.py) | Medium | BFS | . | . |
+|  102 | [Binary Tree Level Order Traversal](solutions/binary-tree-level-order-traversal.py) | Medium | . | . | BFS
 |  104 | [Maximum Depth of Binary Tree](solutions/maximum-depth-of-binary-tree.py) | Easy | . | . |
 |  105 | [Construct Binary Tree from Preorder and Inorder Traversal](aolutions/construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium | . | . |
 |  116 | [Populating Next Right Pointers in Each Node](solutions/populating-next-right-pointers-in-each-node.py) | Easy | . | . |
