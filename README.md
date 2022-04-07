@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
-![Progress](https://img.shields.io/badge/progress-103%20%2F%202198-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-106%20%2F%202198-ff69b4.svg)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edab.leetcode.studyplan)
 
 My solution for LeetCode problems using Python.
@@ -287,8 +287,11 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
+|   56 | [Merge Intervals](solutions/merge-intervals.py) | O(nlogn) | O(1) | Intervals
+|   57 | [Insert Interval](solutions/insert-interval.py) | Medium | O(n) | O(1) | Intervals
 |   88 | [Merge Sorted Array](solutions/merge-sorted-array.py) | Easy | . | . |
-
+|  435 | [Non-overlapping Intervals](solutions/non-overlapping-intervals.py) | Medium | O(nlogn) | O(1) | Intervals
+| 1851 | [Minimum Interval to Include Each Query](solutions/minimum-interval-to-include-each-query.py) | Hard | O(nlogn + qlogq) | O(n) | MinHeap
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
