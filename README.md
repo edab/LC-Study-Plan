@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
-![Progress](https://img.shields.io/badge/progress-70%20%2F%202198-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-103%20%2F%202198-ff69b4.svg)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edab.leetcode.studyplan)
 
 My solution for LeetCode problems using Python.
@@ -35,12 +35,12 @@ My solution for LeetCode problems using Python.
 
 ### Bit Manipulation
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|  136 | [Single Number](solutions/single-number.py) | Easy
-|  190 | [Reverse Bits](solutions/reverse-bits.py) | Easy
-|  191 | [Number of 1 Bits](solutions/number-of-1-bits.py) | Easy
-|  231 | [Power of Two](solutions/power-of-two.py)| Easy
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|  136 | [Single Number](solutions/single-number.py) | Easy | . | . |
+|  190 | [Reverse Bits](solutions/reverse-bits.py) | Easy | . | . |
+|  191 | [Number of 1 Bits](solutions/number-of-1-bits.py) | Easy | . | . |
+|  231 | [Power of Two](solutions/power-of-two.py)| Easy | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -48,12 +48,12 @@ My solution for LeetCode problems using Python.
 
 ### Two Pointers
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|  167 | [Two Sum II - Input array is sorted](solutions/LC167.py)| Medium
-|  283 | [Move Zeroes](solutions/LC283.py) | Medium
-|  344 | [Reverse String](solutions/reverse-string.py) | Easy
-|  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|  167 | [Two Sum II - Input array is sorted](solutions/two-sum-ii-input-array-is-sorted.py)| Medium | . | . |
+|  283 | [Move Zeroes](solutions/move-zeroes.py) | Medium | . | . |
+|  344 | [Reverse String](solutions/reverse-string.py) | Easy | . | . |
+|  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -63,13 +63,13 @@ My solution for LeetCode problems using Python.
 
 ### Backtracking
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|   39 | [Combination Sum](solutions/combination-sum.py) | Medium
-|   46 | [Permutations](solutions/permutations.py) | Medium
-|   77 | [Combinations](solutions/combinations.py) | Medium
-|   79 | [Word Search](solutions/word-search.py) | Medium
-|  784 | [Letter Case Permutation](solutions/letter-case-permutation.py) | Medium
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|   39 | [Combination Sum](solutions/combination-sum.py) | Medium | . | . |
+|   46 | [Permutations](solutions/permutations.py) | Medium | . | . |
+|   77 | [Combinations](solutions/combinations.py) | Medium | . | . |
+|   79 | [Word Search](solutions/word-search.py) | Medium | . | . |
+|  784 | [Letter Case Permutation](solutions/letter-case-permutation.py) | Medium | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -77,13 +77,13 @@ My solution for LeetCode problems using Python.
 
 ### Dynamic Programming
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|   70 | [Climbing Stairs](solutions/climbing-stairs.py) | Easy
-|  120 | [Triangle](solutions/triangle.py)
-|  198 | [House Robber](solutions/house-robber.py) | Medium
-|  303 | [Range Sum Query - Immutable](solutions/range-sum-query-immutable.py) | Easy
-|  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|   70 | [Climbing Stairs](solutions/climbing-stairs.py) | Easy | . | . |
+|  120 | [Triangle](solutions/triangle.py) | Medium | . | . |
+|  198 | [House Robber](solutions/house-robber.py) | Medium | . | . |
+|  303 | [Range Sum Query - Immutable](solutions/range-sum-query-immutable.py) | Easy | . | . |
+|  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -91,11 +91,11 @@ My solution for LeetCode problems using Python.
 
 ### Greedy
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|   42 | [Trapping Rain Water](solutions/trapping-rain-water.py) | Hard
-|   55 | [Jump Game](solutions/jump-game.py) | Medium
-|  134 | [Gas Station](solutions/gas-station.py)
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|   42 | [Trapping Rain Water](solutions/trapping-rain-water.py) | Hard | . | . |
+|   55 | [Jump Game](solutions/jump-game.py) | Medium | . | . |
+|  134 | [Gas Station](solutions/gas-station.py) | Medium | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -105,17 +105,17 @@ My solution for LeetCode problems using Python.
 
 ### Array
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|   26 | [Remove Duplicates from Sorted Array](solutions/remove-duplicates-from-sorted-array.py) | Easy
-|  121 | [Best Time to Buy and Sell Stock](solutions/LC121.py) | Easy
-|  169 | [Majority Element](solutions/LC169.py) | Easy
-|  189 | [Rotate Array](solutions/LC189.py) | Medium
-|  215 | [Kth Largest Element in an Array](solutions/LC215.py) | Medium
-| 238* | [Product of Array Except Self](solutions/LC238.py) | Medium
-|  704 | [Binary Search](solutions/LC704.py)| Easy
-|  807 | [Max Increase to Keep City Skyline](solution/max-increase-to-keep-city-skyline.py) | Medium
-| 1337 | [The K Weakest Rows in a Matrix](solutions/LC1337.py) | Easy
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|   26 | [Remove Duplicates from Sorted Array](solutions/remove-duplicates-from-sorted-array.py) | Easy | . | . |
+|  121 | [Best Time to Buy and Sell Stock](solutions/best-time-to-buy-and-sell-stock.py) | Easy | . | . |
+|  169 | [Majority Element](solutions/majority-element.py) | Easy | . | . |
+|  189 | [Rotate Array](solutions/rotate-array.py) | Medium | . | . |
+|  215 | [Kth Largest Element in an Array](solutions/kth-largest-element-in-an-array.py) | Medium | . | . |
+| 238* | [Product of Array Except Self](solutions/product-of-array-except-self.py) | Medium | . | . |
+|  704 | [Binary Search](solutions/binary-search.py)| Easy | . | . |
+|  807 | [Max Increase to Keep City Skyline](solution/max-increase-to-keep-city-skyline.py) | Medium | . | . |
+| 1337 | [The K Weakest Rows in a Matrix](solutions/the-k-weakest-rows-in-a-matrix.py) | Easy | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -123,11 +123,11 @@ My solution for LeetCode problems using Python.
 
 ### Binary Heap
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|  347 | [Top K Frequent Elements](solutions/LC347.py) | Medium
-|  703 | [Kth Largest Element in a Stream](solutions/LC703.py) | Easy
-| 1046 | [Last Stone Weight](solutions/LC1046.py) | Easy
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|  347 | [Top K Frequent Elements](solutions/top-k-frequent-elements.py) | Medium | . | . |
+|  703 | [Kth Largest Element in a Stream](solutions/kth-largest-element-in-a-stream.py) | Easy | . | . |
+| 1046 | [Last Stone Weight](solutions/last-stone-weight.py) | Easy | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -135,31 +135,31 @@ My solution for LeetCode problems using Python.
 
 ### Graph
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|  133 | [Clone Graph](solutions/clone-graph.py) | Medium | DFS
-|  200 | [Number of Island](solutions/number-of-islands.py) | Medium | DFS, BFS
-|  207 | [Course Schedule](solutions/course-schedule.py) | Medium | DFS cycle
-|  210 | [Course Schedule II](solutions/course-schedule-ii.py) | Medium
-|  417 | [Pacific Atlantic Water Flow](solutions/pacific-atlantic-water-flow.py) | Medium | DFS and Sets
-|  542 | [01 Matrix](solutions/01-matrix.py) | Medium | BFS, DP
-|  547 | [Number of Provinces](solutions/number-of-provinces.py) | Medium | DFS
-|  695 | [Max Area of Island](solutions/max-area-of-island.py) | Medium
-|  733 | [Flood Fill](solutions/flood-fill.py) | Easy
-|  797 | [All Paths From Source to Target](solutions/all-paths-from-source-to-target.py) | Medium
-|  841 | [Keys and Rooms](solutions/keys-and-rooms.py) | Medium
-|  934 | [Shortest Bridge](solutions/shortest-bridge.py) | Medium | BFS multi source and DFS
-|  994 | [Rotting Oranges](solutions/rotting-oranges.py) | Medium | BFS multi source
-|  997 | [Find the Town Judge](solutions/find-the-town-judge.py) | Easy
-| 1020 | [Number of Enclaves](solutions/number-of-enclaves.py) | Medium | DFS
-| 1091 | [Shortest Path in Binary Matrix](solutions/shortest-path-in-binary-matrix.py) | Medium | BFS
-| 1162 | [As Far from Land as Possible](solutions/as-far-from-land-as-possible.py) | Medium | BFS multi source
-| 1254 | [Number of Closed Islands](solutions/number-of-closed-islands.py) | Medium | DFS 2 pass
-| 1319 | [Number of Operations to Make Network Connected](solutions/number-of-operations-to-make-network-connected.py) | Medium | DFS
-| 1791 | [Find Center of Star Graph](solutions/find-center-of-star-graph.py) | Easy
-| 1905 | [Count Sub Islands](solutions/count-sub-islands.py) | Medium
-| 1926 | [Nearest Exit from Entrance in Maze](solutions/nearest-exit-from-entrance-in-maze.py)
-| 1971 | [Find if Path Exists in Graph](solutions/find-if-path-exists-in-graph.py) | Easy | DFS_(i, r) and BFS_(i, r)
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|  133 | [Clone Graph](solutions/clone-graph.py) | Medium | . | . | DFS
+|  200 | [Number of Island](solutions/number-of-islands.py) | Medium | . | . | DFS, BFS
+|  207 | [Course Schedule](solutions/course-schedule.py) | Medium | . | . | DFS cycle
+|  210 | [Course Schedule II](solutions/course-schedule-ii.py) | Medium | . | . |
+|  417 | [Pacific Atlantic Water Flow](solutions/pacific-atlantic-water-flow.py) | Medium | . | . | DFS and Sets
+|  542 | [01 Matrix](solutions/01-matrix.py) | Medium | . | . | BFS, DP
+|  547 | [Number of Provinces](solutions/number-of-provinces.py) | Medium | . | . | DFS
+|  695 | [Max Area of Island](solutions/max-area-of-island.py) | Medium | . | . |
+|  733 | [Flood Fill](solutions/flood-fill.py) | Easy | . | . |
+|  797 | [All Paths From Source to Target](solutions/all-paths-from-source-to-target.py) | Medium | . | . |
+|  841 | [Keys and Rooms](solutions/keys-and-rooms.py) | Medium | . | . |
+|  934 | [Shortest Bridge](solutions/shortest-bridge.py) | Medium | . | . | BFS multi source and DFS
+|  994 | [Rotting Oranges](solutions/rotting-oranges.py) | Medium | . | . | BFS multi source
+|  997 | [Find the Town Judge](solutions/find-the-town-judge.py) | Easy | . | . |
+| 1020 | [Number of Enclaves](solutions/number-of-enclaves.py) | Medium | . | . | DFS
+| 1091 | [Shortest Path in Binary Matrix](solutions/shortest-path-in-binary-matrix.py) | Medium | . | . | BFS
+| 1162 | [As Far from Land as Possible](solutions/as-far-from-land-as-possible.py) | Medium | . | . | BFS multi source
+| 1254 | [Number of Closed Islands](solutions/number-of-closed-islands.py) | Medium | . | . | DFS 2 pass
+| 1319 | [Number of Operations to Make Network Connected](solutions/number-of-operations-to-make-network-connected.py) | Medium | . | . | DFS
+| 1791 | [Find Center of Star Graph](solutions/find-center-of-star-graph.py) | Easy | . | . |
+| 1905 | [Count Sub Islands](solutions/count-sub-islands.py) | Medium | . | . |
+| 1926 | [Nearest Exit from Entrance in Maze](solutions/nearest-exit-from-entrance-in-maze.py) | Medium  | . | . |
+| 1971 | [Find if Path Exists in Graph](solutions/find-if-path-exists-in-graph.py) | Easy | . | . | DFS_(i, r) and BFS_(i, r)
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -167,12 +167,12 @@ My solution for LeetCode problems using Python.
 
 ### Hash Table
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|    1 | [Two Sum](solutions/two-sum.py) | Easy
-|   13 | [Roman to Integer](solutions/LC13.py) | Easy
-|   36 | [Valid Sudoku](solutions/LC36.py) | Medium
-|   49 | [](solutions/group-anagrams.py)
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|    1 | [Two Sum](solutions/two-sum.py) | Easy | . | . |
+|   13 | [Roman to Integer](solutions/roman-to-integer.py) | Easy | . | . |
+|   36 | [Valid Sudoku](solutions/valid-sudoku.py) | Medium | . | . |
+|   49 | [](solutions/group-anagrams.py) | Medium | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -180,15 +180,15 @@ My solution for LeetCode problems using Python.
 
 ### Linked List
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|    2 | [Add Two Numbers](solutions/add-two-numbers.py) | Medium
-|   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium | Two Pointers
-|   21 | [Merge Two Sorted Lists](solutions/merge-two-sorted-lists.py) | Easy
-|  138 | [Copy List with Random Pointer](solutions/LC138.py) | Medium
-|  141 | [Linked List Cycle](solution/LC141.py) | Easy
-|  160 | [Intersection of Two Linked Lists](solutions/LC160.py) | Easy
-|  876 | [Middle of the Linked List](solutions/middle-of-the-linked-list.py) | Easy | Two Pointers
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|    2 | [Add Two Numbers](solutions/add-two-numbers.py) | Medium | . | . |
+|   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium | . | . | Two Pointers
+|   21 | [Merge Two Sorted Lists](solutions/merge-two-sorted-lists.py) | Easy | . | . |
+|  138 | [Copy List with Random Pointer](solutions/copy-list-with-random-pointer.py) | Medium | . | . |
+|  141 | [Linked List Cycle](solution/linked-list-cycle.py) | Easy | . | . |
+|  160 | [Intersection of Two Linked Lists](solutions/intersection-of-two-linked-lists.py) | Easy | . | . |
+|  876 | [Middle of the Linked List](solutions/middle-of-the-linked-list.py) | Easy | . | . | Two Pointers
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -196,11 +196,11 @@ My solution for LeetCode problems using Python.
 
 ### Queue
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|  239 | [Sliding Window Maximum](solutions/sliding-window-maximum.py) | Hard | MaxQueue
-|  341 | [Flatten Nested List Iterator](solutions/flatten-nested-list-iterator.py) | Medium | Recursion
-| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](solutions/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | Medium | Min/Max Queue
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|  239 | [Sliding Window Maximum](solutions/sliding-window-maximum.py) | Hard | . | . | MaxQueue
+|  341 | [Flatten Nested List Iterator](solutions/flatten-nested-list-iterator.py) | Medium | . | . | Recursion
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](solutions/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | Medium | . | . | Min/Max Queue
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -208,14 +208,14 @@ My solution for LeetCode problems using Python.
 
 ### Stack
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|   20 | [Valid Parentheses](solutions/LC20.py) | Easy
-|   71 | [Simplify Path](solutions/LC71.py) | Medium
-|  150 | [Evaluate Reverse Polish Notation](solutions/LC150.py) | Medium
-|  155 | [Min Stack](solutions/LC155.py) | Easy
-|  224 | [Basic Calculator](solutions/LC224.py)
-|  225 | [Implement Stack using Queues](solutions/LC225.py) | Easy
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|   20 | [Valid Parentheses](solutions/valid-parentheses.py) | Easy | . | . |
+|   71 | [Simplify Path](solutions/simplify-path.py) | Medium | . | . |
+|  150 | [Evaluate Reverse Polish Notation](solutions/evaluate-reverse-polish-notation.py) | Medium | . | . |
+|  155 | [Min Stack](solutions/min-stack.py) | Easy | . | . |
+|  224 | [Basic Calculator](solutions/basic-calculator.py) | Hard | . | . |
+|  225 | [Implement Stack using Queues](solutions/implement-stack-using-queues.py) | Easy | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -223,15 +223,15 @@ My solution for LeetCode problems using Python.
 
 ### String
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|    3 | [Longest Substring Without Repeating Characters](solutions/longest-substring-without-repeating-characters.py) | Medium | Sliding Window
-|    5 | [Longest Palindromic Substring](solutions/longest-palindromic-substring.py) | Medium
-|    8 | [String to Integer (atoi)](solutions/LC8.py) | Medium
-|  557 | [Reverse Words in a String III](solution/reverse-words-in-a-string-iii.py) | Easy
-|  567 | [Permutation in String](solution/permutation-in-string.py) | Medium | Sliding Window
-|  771 | [Jewels and Stones](solution/LC771.py) | Easy
-| 1344 | [Angle Between Hands of a Clock](solutions/LC1344.py) | Medium
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|    3 | [Longest Substring Without Repeating Characters](solutions/longest-substring-without-repeating-characters.py) | Medium | . | . | Sliding Window
+|    5 | [Longest Palindromic Substring](solutions/longest-palindromic-substring.py) | Medium | . | . |
+|    8 | [String to Integer (atoi)](solutions/string-to-integer-atoi.py) | Medium | . | . |
+|  557 | [Reverse Words in a String III](solution/reverse-words-in-a-string-iii.py) | Easy | . | . |
+|  567 | [Permutation in String](solution/permutation-in-string.py) | Medium | . | . | Sliding Window
+|  771 | [Jewels and Stones](solution/jewels-and-stones.py) | Easy | . | . |
+| 1344 | [Angle Between Hands of a Clock](solutions/angle-between-hands-of-a-clock.py) | Medium | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -239,20 +239,20 @@ My solution for LeetCode problems using Python.
 
 ### Tree
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|   94 | [Binary Tree Inorder Traversal](solutions/binary-tree-inorder-traversal.py) | Easy
-|   98 | [Validate Binary Search Tree](solutions/validate-binary-search-tree.py) | Medium
-|  101 | [Symmetric Tree](solutions/symmetric-tree.py) | Easy
-|  102 | [Binary Tree Level Order Traversal](solutions/binary-tree-level-order-traversal.py) | Medium | BFS
-|  104 | [Maximum Depth of Binary Tree](solutions/LC104.py) | Easy
-|  105 | [Construct Binary Tree from Preorder and Inorder Traversal](aolutions/construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium
-|  116 | [Populating Next Right Pointers in Each Node](solutions/populating-next-right-pointers-in-each-node.py) | Easy
-|  208 | [Implement Trie (Prefix Tree)](solutions/implement-trie-prefix-tree.py) | Medium
-|  211 | [Design Add and Search Words Data Structure](solutions/design-add-and-search-words-data-structure.py) | Medium
-|  212 | [Word Search II](solutions/word-search-ii.py)
-|  236 | [Lowest Common Ancestor of a Binary Tree](solutions/lowest-common-ancestor-of-a-binary-tree.py) | Medium
-|  617 | [Merge Two Binary Trees](solutions/merge-two-binary-trees.py) | Medium
+||    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|   94 | [Binary Tree Inorder Traversal](solutions/binary-tree-inorder-traversal.py) | Easy | . | . |
+|   98 | [Validate Binary Search Tree](solutions/validate-binary-search-tree.py) | Medium | . | . |
+|  101 | [Symmetric Tree](solutions/symmetric-tree.py) | Easy | . | . |
+|  102 | [Binary Tree Level Order Traversal](solutions/binary-tree-level-order-traversal.py) | Medium | BFS | . | . |
+|  104 | [Maximum Depth of Binary Tree](solutions/maximum-depth-of-binary-tree.py) | Easy | . | . |
+|  105 | [Construct Binary Tree from Preorder and Inorder Traversal](aolutions/construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium | . | . |
+|  116 | [Populating Next Right Pointers in Each Node](solutions/populating-next-right-pointers-in-each-node.py) | Easy | . | . |
+|  208 | [Implement Trie (Prefix Tree)](solutions/implement-trie-prefix-tree.py) | Medium | . | . |
+|  211 | [Design Add and Search Words Data Structure](solutions/design-add-and-search-words-data-structure.py) | Medium | . | . |
+|  212 | [Word Search II](solutions/word-search-ii.py) | Medium | . | . |
+|  236 | [Lowest Common Ancestor of a Binary Tree](solutions/lowest-common-ancestor-of-a-binary-tree.py) | Medium | . | . |
+|  617 | [Merge Two Binary Trees](solutions/merge-two-binary-trees.py) | Medium | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -262,11 +262,11 @@ My solution for LeetCode problems using Python.
 
 ### Binary Search
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|  35 | [Search Insert Position](solutions/LC35.py) | Easy
-| 278 | [First Bad Version](solutions/LC278.py) | Easy
-| 704 | [Binary Search](solutions/LC704.py) | Easy
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|  35 | [Search Insert Position](solutions/search-insert-position.py) | Easy | . | . |
+| 278 | [First Bad Version](solutions/first-bad-version.py) | Easy | . | . |
+| 704 | [Binary Search](solutions/binary-search.py) | Easy | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -274,9 +274,9 @@ My solution for LeetCode problems using Python.
 
 ### Design
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-| 146 | [LRU Cache](solutions/lru-cache.py) | Medium
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+| 146 | [LRU Cache](solutions/lru-cache.py) | Medium | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -284,9 +284,9 @@ My solution for LeetCode problems using Python.
 
 ### Sorting
 
-|    # | Title | Level | Tags
-| ---: | ----  | :---  | :---
-|   88 | [Merge Sorted Array](solutions/LC88.py) | Easy
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|   88 | [Merge Sorted Array](solutions/merge-sorted-array.py) | Easy | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>

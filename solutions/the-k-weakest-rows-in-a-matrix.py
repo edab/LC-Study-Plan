@@ -1,6 +1,6 @@
 # Leetcode 1337. The K Weakest Rows in a Matrix
 #
-# Link: https://leetcode.com/problems/kth-largest-element-in-a-stream/
+# Link: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 # Difficulty: Easy
 # Complexity:
 #   O(NlogN) time | where N represent the number of elements in the input list
