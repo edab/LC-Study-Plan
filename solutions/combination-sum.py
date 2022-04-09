@@ -2,10 +2,11 @@
 #
 # Link: https://leetcode.com/problems/combination-sum/
 # Difficulty: Medium
+
+# Solution using DFS
 # Complexity:
 #   O(2^T) time | where T represent the target number
 #   O(1) space
-
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
 

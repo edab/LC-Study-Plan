@@ -2,6 +2,8 @@
 #
 # Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 # Difficulty: Easy
+
+# Solution using SlidingWindow
 # Complexity:
 #   O(N) time | where N represent the number of elements in the input array
 #   O(1) space

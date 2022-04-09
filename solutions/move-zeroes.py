@@ -1,7 +1,9 @@
 # Leetcode 283. Move Zeroes
 #
 # Link: https://leetcode.com/problems/move-zeroes/
-# Difficulty: Medium
+# Difficulty: Easy
+
+# Solution using TwoPointers
 # Complexity:
 #   O(N) time | where N represent the number of elements in the input list
 #   O(1) space

@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
-![Progress](https://img.shields.io/badge/progress-106%20%2F%202198-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-108%20%2F%202198-ff69b4.svg)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edab.leetcode.studyplan)
 
 My solution for LeetCode problems using Python.
@@ -50,10 +50,13 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
-|  167 | [Two Sum II - Input array is sorted](solutions/two-sum-ii-input-array-is-sorted.py)| Medium | . | . |
-|  283 | [Move Zeroes](solutions/move-zeroes.py) | Medium | . | . |
-|  344 | [Reverse String](solutions/reverse-string.py) | Easy | . | . |
-|  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy | . | . |
+|   11 | [Container With Most Water](solutions/container-with-most-water.py) | Medium | O(n) | O(1) | TwoPointers
+|   15 | [3Sum](solutions/3sum.py) | Medium | O(n) | O(1) | TwoPointers
+|  125 | [Valid Palindrome](solutions/valid-palindrome.py) | Easy | O(n) | O(1) | TwoPointers
+|  167 | [Two Sum II - Input array is sorted](solutions/two-sum-ii-input-array-is-sorted.py)| Medium | O(n) | O(1) | HashMap, TwoPointers
+|  283 | [Move Zeroes](solutions/move-zeroes.py) | Easy | O(n) | O(1) | TwoPointers
+|  344 | [Reverse String](solutions/reverse-string.py) | Easy | O(n) | O(1) | TwoPointers
+|  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy | O(n) | O(1) | TwoPointers
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -65,7 +68,8 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
-|   39 | [Combination Sum](solutions/combination-sum.py) | Medium | . | . |
+|   22 | [Generate Parentheses](solutions/generate-parentheses.py) | Medium | O(2^(n+1)) | O(n) | Backtraking
+|   39 | [Combination Sum](solutions/combination-sum.py) | Medium | O(2^t) | O(1) | DFS
 |   46 | [Permutations](solutions/permutations.py) | Medium | . | . |
 |   77 | [Combinations](solutions/combinations.py) | Medium | . | . |
 |   79 | [Word Search](solutions/word-search.py) | Medium | . | . |
@@ -108,12 +112,13 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
 |   26 | [Remove Duplicates from Sorted Array](solutions/remove-duplicates-from-sorted-array.py) | Easy | . | . |
-|  121 | [Best Time to Buy and Sell Stock](solutions/best-time-to-buy-and-sell-stock.py) | Easy | . | . |
+|  121 | [Best Time to Buy and Sell Stock](solutions/best-time-to-buy-and-sell-stock.py) | Easy | . | . | SlidingWindow
 |  128 | [Longest Consecutive Sequence](solutions/longest-consecutive-sequence.py) | O(α(n)) | O(n) | DSU, HashSet, HashMap
 |  169 | [Majority Element](solutions/majority-element.py) | Easy | . | . |
 |  189 | [Rotate Array](solutions/rotate-array.py) | Medium | . | . |
 |  215 | [Kth Largest Element in an Array](solutions/kth-largest-element-in-an-array.py) | Medium | . | . |
 | 238* | [Product of Array Except Self](solutions/product-of-array-except-self.py) | Medium | O(n) | O(1) |
+|  424 | [Longest Repeating Character Replacement](solutions/longest-repeating-character-replacement.py) | Medium | O(n) | O(1) | SlidingWindow
 |  704 | [Binary Search](solutions/binary-search.py)| Easy | . | . |
 |  807 | [Max Increase to Keep City Skyline](solution/max-increase-to-keep-city-skyline.py) | Medium | . | . |
 | 1337 | [The K Weakest Rows in a Matrix](solutions/the-k-weakest-rows-in-a-matrix.py) | Easy | . | . |
@@ -201,7 +206,8 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :--- | :---  | :---
 |  239 | [Sliding Window Maximum](solutions/sliding-window-maximum.py) | Hard | . | . | MaxQueue
 |  341 | [Flatten Nested List Iterator](solutions/flatten-nested-list-iterator.py) | Medium | . | . | Recursion
-| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](solutions/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | Medium | . | . | Min/Max Queue
+|  950 | [](solutions/reveal-cards-in-increasing-order.py) | Medium | O(n) | O(n)
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](solutions/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | Medium | . | . | MaxQueue
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -217,6 +223,7 @@ My solution for LeetCode problems using Python.
 |  155 | [Min Stack](solutions/min-stack.py) | Easy | . | . |
 |  224 | [Basic Calculator](solutions/basic-calculator.py) | Hard | . | . |
 |  225 | [Implement Stack using Queues](solutions/implement-stack-using-queues.py) | Easy | . | . |
+|  739 | [Daily Temperatures](solutions/daily-temperatures.py) | Medium | O(n) | O(m) | MinStack
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>

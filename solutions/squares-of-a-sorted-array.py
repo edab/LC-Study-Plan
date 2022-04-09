@@ -2,6 +2,8 @@
 #
 # Link: https://leetcode.com/problems/squares-of-a-sorted-array/
 # Difficulty: Easy
+
+# Solution using TwoPointers
 # Complexity:
 #   O(N) time | where N represent the number of elements in the input array
 #   O(N) space | where N represent the number of elements in the input array
