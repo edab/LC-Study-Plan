@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
-![Progress](https://img.shields.io/badge/progress-108%20%2F%202198-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-117%20%2F%202234-ff69b4.svg)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edab.leetcode.studyplan)
 
 My solution for LeetCode problems using Python.
@@ -219,6 +219,7 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :--- | :---  | :---
 |   20 | [Valid Parentheses](solutions/valid-parentheses.py) | Easy | . | . |
 |   71 | [Simplify Path](solutions/simplify-path.py) | Medium | . | . |
+|   84 | [Largest Rectangle in Histogram](solutions/largest-rectangle-in-histogram.py) | Hard | O(n) | O(1) | 
 |  150 | [Evaluate Reverse Polish Notation](solutions/evaluate-reverse-polish-notation.py) | Medium | . | . |
 |  155 | [Min Stack](solutions/min-stack.py) | Easy | . | . |
 |  224 | [Basic Calculator](solutions/basic-calculator.py) | Hard | . | . |
@@ -272,9 +273,10 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
-|  35 | [Search Insert Position](solutions/search-insert-position.py) | Easy | . | . |
-| 278 | [First Bad Version](solutions/first-bad-version.py) | Easy | . | . |
-| 704 | [Binary Search](solutions/binary-search.py) | Easy | . | . |
+|   35 | [Search Insert Position](solutions/search-insert-position.py) | Easy | . | . |
+|  278 | [First Bad Version](solutions/first-bad-version.py) | Easy | . | . |
+|  374 | [Guess Number Higher or Lower](solution/guess-number-higher-or-lower.py) | Easy | O(log n) | O(1) |
+|  704 | [Binary Search](solutions/binary-search.py) | Easy | . | . |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
