@@ -219,7 +219,7 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :--- | :---  | :---
 |   20 | [Valid Parentheses](solutions/valid-parentheses.py) | Easy | . | . |
 |   71 | [Simplify Path](solutions/simplify-path.py) | Medium | . | . |
-|   84 | [Largest Rectangle in Histogram](solutions/largest-rectangle-in-histogram.py) | Hard | O(n) | O(1) | 
+|   84 | [Largest Rectangle in Histogram](solutions/largest-rectangle-in-histogram.py) | Hard | O(n) | O(1) |
 |  150 | [Evaluate Reverse Polish Notation](solutions/evaluate-reverse-polish-notation.py) | Medium | . | . |
 |  155 | [Min Stack](solutions/min-stack.py) | Easy | . | . |
 |  224 | [Basic Calculator](solutions/basic-calculator.py) | Hard | . | . |
@@ -260,6 +260,7 @@ My solution for LeetCode problems using Python.
 |  208 | [Implement Trie (Prefix Tree)](solutions/implement-trie-prefix-tree.py) | Medium | . | . |
 |  211 | [Design Add and Search Words Data Structure](solutions/design-add-and-search-words-data-structure.py) | Medium | . | . |
 |  212 | [Word Search II](solutions/word-search-ii.py) | Medium | . | . |
+|  230 | [](solutions/kth-smallest-element-in-a-bst.py) | Medium | O(n) | O(n) | InOrder
 |  236 | [Lowest Common Ancestor of a Binary Tree](solutions/lowest-common-ancestor-of-a-binary-tree.py) | Medium | . | . |
 |  617 | [Merge Two Binary Trees](solutions/merge-two-binary-trees.py) | Medium | . | . |
 
@@ -274,6 +275,7 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
 |   35 | [Search Insert Position](solutions/search-insert-position.py) | Easy | . | . |
+|   74 | [Search a 2D Matrix](solutions/) | Medium | Medium | O(log n) | O(1) |
 |  278 | [First Bad Version](solutions/first-bad-version.py) | Easy | . | . |
 |  374 | [Guess Number Higher or Lower](solution/guess-number-higher-or-lower.py) | Easy | O(log n) | O(1) |
 |  704 | [Binary Search](solutions/binary-search.py) | Easy | . | . |

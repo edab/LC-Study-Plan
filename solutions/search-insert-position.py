@@ -2,10 +2,11 @@
 #
 # Link: https://leetcode.com/problems/search-insert-position/
 # Difficulty: Easy
+
+# Solution using BinarySearch
 # Complexity:
 #   O(logN) time | where N represent the number of elements in the input array
 #   O(1) space
-
 class Solution:
 
     def searchInsert(self, nums: List[int], target: int) -> int:
