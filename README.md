@@ -120,7 +120,7 @@ My solution for LeetCode problems using Python.
 | 238* | [Product of Array Except Self](solutions/product-of-array-except-self.py) | Medium | O(n) | O(1) |
 |  424 | [Longest Repeating Character Replacement](solutions/longest-repeating-character-replacement.py) | Medium | O(n) | O(1) | SlidingWindow
 |  704 | [Binary Search](solutions/binary-search.py)| Easy | . | . |
-|  807 | [Max Increase to Keep City Skyline](solution/max-increase-to-keep-city-skyline.py) | Medium | . | . |
+|  807 | [Max Increase to Keep City Skyline](solutions/max-increase-to-keep-city-skyline.py) | Medium | . | . |
 | 1337 | [The K Weakest Rows in a Matrix](solutions/the-k-weakest-rows-in-a-matrix.py) | Easy | . | . |
 
 <div align="right">
@@ -132,6 +132,7 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
 |  347 | [Top K Frequent Elements](solutions/top-k-frequent-elements.py) | Medium | O(n) | O(n) |
+|  621 | [Task Scheduler](solutions/task-scheduler.py) | Medium | O(n) | O(1) |
 |  703 | [Kth Largest Element in a Stream](solutions/kth-largest-element-in-a-stream.py) | Easy | . | . |
 | 1046 | [Last Stone Weight](solutions/last-stone-weight.py) | Easy | . | . |
 
@@ -192,7 +193,8 @@ My solution for LeetCode problems using Python.
 |   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium | . | . | Two Pointers
 |   21 | [Merge Two Sorted Lists](solutions/merge-two-sorted-lists.py) | Easy | . | . |
 |  138 | [Copy List with Random Pointer](solutions/copy-list-with-random-pointer.py) | Medium | . | . |
-|  141 | [Linked List Cycle](solution/linked-list-cycle.py) | Easy | . | . |
+|  141 | [Linked List Cycle](solutions/linked-list-cycle.py) | Easy | . | . |
+|  143 | [Reorder List](solutions/reorder-list.py) | Medium | O(n) | O(1) |
 |  160 | [Intersection of Two Linked Lists](solutions/intersection-of-two-linked-lists.py) | Easy | . | . |
 |  876 | [Middle of the Linked List](solutions/middle-of-the-linked-list.py) | Easy | . | . | Two Pointers
 
@@ -237,9 +239,9 @@ My solution for LeetCode problems using Python.
 |    3 | [Longest Substring Without Repeating Characters](solutions/O(α(N))12-substring-without-repeating-characters.py) | Medium | . | . | Sliding Window
 |    5 | [Longest Palindromic Substring](solutions/longest-palindromic-substring.py) | Medium | . | . |
 |    8 | [String to Integer (atoi)](solutions/string-to-integer-atoi.py) | Medium | . | . |
-|  557 | [Reverse Words in a String III](solution/reverse-words-in-a-string-iii.py) | Easy | . | . |
-|  567 | [Permutation in String](solution/permutation-in-string.py) | Medium | . | . | Sliding Window
-|  771 | [Jewels and Stones](solution/jewels-and-stones.py) | Easy | . | . |
+|  557 | [Reverse Words in a String III](solutions/reverse-words-in-a-string-iii.py) | Easy | . | . |
+|  567 | [Permutation in String](solutions/permutation-in-string.py) | Medium | . | . | Sliding Window
+|  771 | [Jewels and Stones](solutions/jewels-and-stones.py) | Easy | . | . |
 | 1344 | [Angle Between Hands of a Clock](solutions/angle-between-hands-of-a-clock.py) | Medium | . | . |
 
 <div align="right">
@@ -277,7 +279,7 @@ My solution for LeetCode problems using Python.
 |   35 | [Search Insert Position](solutions/search-insert-position.py) | Easy | . | . |
 |   74 | [Search a 2D Matrix](solutions/) | Medium | Medium | O(log n) | O(1) |
 |  278 | [First Bad Version](solutions/first-bad-version.py) | Easy | . | . |
-|  374 | [Guess Number Higher or Lower](solution/guess-number-higher-or-lower.py) | Easy | O(log n) | O(1) |
+|  374 | [Guess Number Higher or Lower](solutions/guess-number-higher-or-lower.py) | Easy | O(log n) | O(1) |
 |  704 | [Binary Search](solutions/binary-search.py) | Easy | . | . |
 
 <div align="right">
