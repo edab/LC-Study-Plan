@@ -88,6 +88,7 @@ My solution for LeetCode problems using Python.
 |  198 | [House Robber](solutions/house-robber.py) | Medium | . | . |
 |  303 | [Range Sum Query - Immutable](solutions/range-sum-query-immutable.py) | Easy | . | . |
 |  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium | . | . |
+|  322 | [Coin Change](solutions/coin-change.py) | Medium | O(m * n) | O(m) | 
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
