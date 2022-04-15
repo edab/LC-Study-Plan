@@ -16,6 +16,7 @@ My solution for LeetCode problems using Python.
   - [BackTracking](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#backtracking)
   - [Dynamic Programming](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#dynamic-programming)
   - [Greedy](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#greedy)
+  = [Memoization](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#memoization)
 - Data Structures
   - [Array](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#array)
   - [Binary Heap](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#binary-heap)
@@ -88,7 +89,7 @@ My solution for LeetCode problems using Python.
 |  198 | [House Robber](solutions/house-robber.py) | Medium | . | . |
 |  303 | [Range Sum Query - Immutable](solutions/range-sum-query-immutable.py) | Easy | . | . |
 |  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium | . | . |
-|  322 | [Coin Change](solutions/coin-change.py) | Medium | O(m * n) | O(m) | 
+|  322 | [Coin Change](solutions/coin-change.py) | Medium | O(m * n) | O(m) |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -101,6 +102,16 @@ My solution for LeetCode problems using Python.
 |   42 | [Trapping Rain Water](solutions/trapping-rain-water.py) | Hard | . | . |
 |   55 | [Jump Game](solutions/jump-game.py) | Medium | . | . |
 |  134 | [Gas Station](solutions/gas-station.py) | Medium | . | . |
+
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+
+### Memoization
+
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|  518 | [Coin Change 2](solutions/coin-change-2.py) | Medium | O(m * n) | O(m * n) | DFS
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -281,6 +292,7 @@ My solution for LeetCode problems using Python.
 |   74 | [Search a 2D Matrix](solutions/) | Medium | Medium | O(log n) | O(1) |
 |  278 | [First Bad Version](solutions/first-bad-version.py) | Easy | . | . |
 |  374 | [Guess Number Higher or Lower](solutions/guess-number-higher-or-lower.py) | Easy | O(log n) | O(1) |
+|  669 | [Trim a Binary Search Tree](solutions/trim-a-binary-search-tree.py) | Medium | O(n) | O(n) |
 |  704 | [Binary Search](solutions/binary-search.py) | Easy | . | . |
 
 <div align="right">
