@@ -57,6 +57,7 @@ My solution for LeetCode problems using Python.
 |  167 | [Two Sum II - Input array is sorted](solutions/two-sum-ii-input-array-is-sorted.py)| Medium | O(n) | O(1) | HashMap, TwoPointers
 |  283 | [Move Zeroes](solutions/move-zeroes.py) | Easy | O(n) | O(1) | TwoPointers
 |  344 | [Reverse String](solutions/reverse-string.py) | Easy | O(n) | O(1) | TwoPointers
+|  844 | [Backspace String Compare](solutions/backspace-string-compare.py) | Easy | O(n) | O(1) | TwoPointer backwards
 |  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy | O(n) | O(1) | TwoPointers
 
 <div align="right">
