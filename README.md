@@ -57,6 +57,7 @@ My solution for LeetCode problems using Python.
 |  167 | [Two Sum II - Input array is sorted](solutions/two-sum-ii-input-array-is-sorted.py)| Medium | O(n) | O(1) | HashMap, TwoPointers
 |  283 | [Move Zeroes](solutions/move-zeroes.py) | Easy | O(n) | O(1) | TwoPointers
 |  344 | [Reverse String](solutions/reverse-string.py) | Easy | O(n) | O(1) | TwoPointers
+|  581 | [Shortest Unsorted Continuous Subarray](solutions/shortest-unsorted-continuous-subarray.py) | Medium | O(n) | O(1) | TwoPointers
 |  844 | [Backspace String Compare](solutions/backspace-string-compare.py) | Easy | O(n) | O(1) | TwoPointer backwards
 |  905 | [Sort Array By Parity](solutions/sort-array-by-parity.py) | Easy | O(n) | O(1)
 |  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy | O(n) | O(1) | TwoPointers
@@ -71,6 +72,7 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
+|   17 | [Letter Combinations of a Phone Number](solutions/letter-combinations-of-a-phone-number.py) | Medium | O(n * 4^n) | O(1) | Backtraking
 |   22 | [Generate Parentheses](solutions/generate-parentheses.py) | Medium | O(2^(n+1)) | O(n) | Backtraking
 |   39 | [Combination Sum](solutions/combination-sum.py) | Medium | O(2^t) | O(1) | DFS
 |   46 | [Permutations](solutions/permutations.py) | Medium | . | . |
