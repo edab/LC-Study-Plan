@@ -78,6 +78,7 @@ My solution for LeetCode problems using Python.
 |   46 | [Permutations](solutions/permutations.py) | Medium | . | . |
 |   77 | [Combinations](solutions/combinations.py) | Medium | . | . |
 |   79 | [Word Search](solutions/word-search.py) | Medium | . | . |
+|  216 | [Combination Sum III](solutions/combination-sum-iii.py) | Medium | O(k * C(n, k)) | O(k) | DFS
 |  784 | [Letter Case Permutation](solutions/letter-case-permutation.py) | Medium | . | . |
 
 <div align="right">
