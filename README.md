@@ -95,6 +95,7 @@ My solution for LeetCode problems using Python.
 |  303 | [Range Sum Query - Immutable](solutions/range-sum-query-immutable.py) | Easy | . | . |
 |  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium | . | . |
 |  322 | [Coin Change](solutions/coin-change.py) | Medium | O(m * n) | O(m) |
+| 1641 | [](solutions/count-sorted-vowel-strings.py) | Medium | O(n) | O(1) |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
