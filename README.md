@@ -76,6 +76,7 @@ My solution for LeetCode problems using Python.
 |   22 | [Generate Parentheses](solutions/generate-parentheses.py) | Medium | O(2^(n+1)) | O(n) | Backtraking
 |   39 | [Combination Sum](solutions/combination-sum.py) | Medium | O(2^t) | O(1) | DFS
 |   46 | [Permutations](solutions/permutations.py) | Medium | . | . |
+|   47 | [Permutations II](solutions/permutations-ii.py) | Medium | O(n * 2^n) | O(n) | DFS
 |   77 | [Combinations](solutions/combinations.py) | Medium | . | . |
 |   79 | [Word Search](solutions/word-search.py) | Medium | . | . |
 |  216 | [Combination Sum III](solutions/combination-sum-iii.py) | Medium | O(k * C(n, k)) | O(k) | DFS
