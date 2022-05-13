@@ -278,6 +278,7 @@ My solution for LeetCode problems using Python.
 |  104 | [Maximum Depth of Binary Tree](solutions/maximum-depth-of-binary-tree.py) | Easy | . | . |
 |  105 | [Construct Binary Tree from Preorder and Inorder Traversal](aolutions/construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium | . | . |
 |  116 | [Populating Next Right Pointers in Each Node](solutions/populating-next-right-pointers-in-each-node.py) | Easy | . | . |
+|  117 | [Populating Next Right Pointers in Each Node II](solutions/populating-next-right-pointers-in-each-node-ii.py) | Easy | O(n) | O(n) | BFS
 |  208 | [Implement Trie (Prefix Tree)](solutions/implement-trie-prefix-tree.py) | Medium | . | . |
 |  211 | [Design Add and Search Words Data Structure](solutions/design-add-and-search-words-data-structure.py) | Medium | . | . |
 |  212 | [Word Search II](solutions/word-search-ii.py) | Medium | . | . |
