@@ -31,6 +31,7 @@ My solution for LeetCode problems using Python.
   - [Binary Search](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#binary-search)
   - [Design](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#design)
   - [Sorting](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#sorting)
+  - [Path planning](https://github.com/edab/LC_StudyPlan_Python/blob/main/README.md#path-planning)
 
 ## Techniques
 
@@ -326,6 +327,16 @@ My solution for LeetCode problems using Python.
 |   88 | [Merge Sorted Array](solutions/merge-sorted-array.py) | Easy | . | . |
 |  435 | [Non-overlapping Intervals](solutions/non-overlapping-intervals.py) | Medium | O(nlogn) | O(1) | Intervals
 | 1851 | [Minimum Interval to Include Each Query](solutions/minimum-interval-to-include-each-query.py) | Hard | O(nlogn + qlogq) | O(n) | MinHeap
+<div align="right">
+    <b><a href="#topics">Back to Top</a></b>
+</div>
+
+### Path planning
+
+|    # | Title | Level | Time | Space | Tags   
+| ---: | ----  | :---  | :--- | :---  | :---
+|  743 | [Network Delay Time](solutions/network-delay-time.py) | Medium | O(V*logE) | O(E) | Djikstra
+
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
