@@ -181,6 +181,7 @@ My solution for LeetCode problems using Python.
 | 1020 | [Number of Enclaves](solutions/number-of-enclaves.py) | Medium | . | . | DFS
 | 1091 | [Shortest Path in Binary Matrix](solutions/shortest-path-in-binary-matrix.py) | Medium | . | . | BFS
 | 1162 | [As Far from Land as Possible](solutions/as-far-from-land-as-possible.py) | Medium | . | . | BFS multi source
+| 1192 | [Critical Connections in a Network](solutions/critical-connections-in-a-network.py) | Hard | O(v+e) | O(v+e) | Tarjan
 | 1254 | [Number of Closed Islands](solutions/number-of-closed-islands.py) | Medium | . | . | DFS 2 pass
 | 1319 | [Number of Operations to Make Network Connected](solutions/number-of-operations-to-make-network-connected.py) | Medium | . | . | DFS
 | 1791 | [Find Center of Star Graph](solutions/find-center-of-star-graph.py) | Easy | . | . |
@@ -286,6 +287,7 @@ My solution for LeetCode problems using Python.
 |  230 | [](solutions/kth-smallest-element-in-a-bst.py) | Medium | O(n) | O(n) | InOrder
 |  236 | [Lowest Common Ancestor of a Binary Tree](solutions/lowest-common-ancestor-of-a-binary-tree.py) | Medium | . | . |
 |  617 | [Merge Two Binary Trees](solutions/merge-two-binary-trees.py) | Medium | . | . |
+| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](solutions/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py) | Medium | O(n) | O(n) | DFS
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
