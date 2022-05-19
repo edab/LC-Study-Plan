@@ -168,6 +168,7 @@ My solution for LeetCode problems using Python.
 |  200 | [Number of Island](solutions/number-of-islands.py) | Medium | . | . | DFS, BFS
 |  207 | [Course Schedule](solutions/course-schedule.py) | Medium | . | . | DFS cycle
 |  210 | [Course Schedule II](solutions/course-schedule-ii.py) | Medium | . | . |
+|  329 | [Longest Increasing Path in a Matrix](solutions/longest-increasing-path-in-a-matrix.py) | hard | O(m * n) | O(m * n) | DFS and memoization
 |  417 | [Pacific Atlantic Water Flow](solutions/pacific-atlantic-water-flow.py) | Medium | . | . | DFS and Sets
 |  542 | [01 Matrix](solutions/01-matrix.py) | Medium | . | . | BFS, DP
 |  547 | [Number of Provinces](solutions/number-of-provinces.py) | Medium | . | . | DFS
