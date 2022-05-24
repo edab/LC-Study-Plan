@@ -243,6 +243,7 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
 |   20 | [Valid Parentheses](solutions/valid-parentheses.py) | Easy | . | . |
+|   32 | [Longest Valid Parentheses](solutions/longest-valid-parentheses.py) | Hard | O(n) | O(n) | 
 |   71 | [Simplify Path](solutions/simplify-path.py) | Medium | . | . |
 |   84 | [Largest Rectangle in Histogram](solutions/largest-rectangle-in-histogram.py) | Hard | O(n) | O(1) |
 |  150 | [Evaluate Reverse Polish Notation](solutions/evaluate-reverse-polish-notation.py) | Medium | . | . |
