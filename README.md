@@ -95,10 +95,11 @@ My solution for LeetCode problems using Python.
 |   70 | [Climbing Stairs](solutions/climbing-stairs.py) | Easy | . | . |
 |  120 | [Triangle](solutions/triangle.py) | Medium | . | . |
 |  198 | [House Robber](solutions/house-robber.py) | Medium | . | . |
-|  303 | [Range Sum Query - Immutable](solutions/range-sum-query-immutable.py) | Easy | . | . |
+|  303 | [Range Sum Query - Immutable](solutions/range-sum-query-immutable.py) | Easy | O(n) init, O(1) query | O(n) | prefix_sum
+|  304 | [Range Sum Query 2D - Immutable](solutions/range-sum-query-2d-immutable.py) | Medium | O(n^2) init, O(1) query | O(n^2) | prefix_sum
 |  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium | . | . |
 |  322 | [Coin Change](solutions/coin-change.py) | Medium | O(m * n) | O(m) |
-| 1641 | [](solutions/count-sorted-vowel-strings.py) | Medium | O(n) | O(1) |
+| 1641 | [Count Sorted Vowel Strings](solutions/count-sorted-vowel-strings.py) | Medium | O(n) | O(1) |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -243,7 +244,7 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
 |   20 | [Valid Parentheses](solutions/valid-parentheses.py) | Easy | . | . |
-|   32 | [Longest Valid Parentheses](solutions/longest-valid-parentheses.py) | Hard | O(n) | O(n) | 
+|   32 | [Longest Valid Parentheses](solutions/longest-valid-parentheses.py) | Hard | O(n) | O(n) |
 |   71 | [Simplify Path](solutions/simplify-path.py) | Medium | . | . |
 |   84 | [Largest Rectangle in Histogram](solutions/largest-rectangle-in-histogram.py) | Hard | O(n) | O(1) |
 |  150 | [Evaluate Reverse Polish Notation](solutions/evaluate-reverse-polish-notation.py) | Medium | . | . |

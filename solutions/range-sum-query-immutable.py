@@ -3,11 +3,11 @@
 # Link: https://leetcode.com/problems/range-sum-query-immutable/
 # Difficulty: Easy
 
-# Solution using DP
+# Solution using DP(prefix_sum)
 # Complexity:
 #   O(N) time (init) | where N represent the number of items in the input list
 #   O(1) time (query)
-#   O(1) space
+#   O(N) space | where N represent the number of items in the input list
 
 class NumArray:
 
