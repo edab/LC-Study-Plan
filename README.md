@@ -79,7 +79,8 @@ My solution for LeetCode problems using Python.
 |   39 | [Combination Sum](solutions/combination-sum.py) | Medium | O(2^t) | O(1) | DFS
 |   46 | [Permutations](solutions/permutations.py) | Medium | . | . |
 |   47 | [Permutations II](solutions/permutations-ii.py) | Medium | O(n * 2^n) | O(n) | DFS
-|   51 | [N-Queens](solutions/n-queens.py) | Hard | O(n^2) | O(n) |
+|   51 | [N-Queens](solutions/n-queens.py) | Hard | O(n^n) | O(n*n) |
+|   52 | [N-Queens](solutions/n-queens-ii.py) | Hard | O(n^n) | O(1) |
 |   77 | [Combinations](solutions/combinations.py) | Medium | . | . |
 |   79 | [Word Search](solutions/word-search.py) | Medium | . | . |
 |  216 | [Combination Sum III](solutions/combination-sum-iii.py) | Medium | O(k * C(n, k)) | O(k) | DFS

@@ -1,29 +1,28 @@
-# Leetcode 51. N-Queens
+# Leetcode 52. N-Queens
 #
-# Link: https://leetcode.com/problems/n-queens/
+# Link: https://leetcode.com/problems/n-queens-ii/
 # Difficulty: Hard
 # Tags: BackTracking
 
 # Solution using backtracking
 # Complexity:
 #   O(N^N) time | where N represent the size of the board
-#   O(N*N) space | where N represent the size of the board
+#   O(1) space
 class Solution:
-    def solveNQueens(self, n: int) -> List[List[str]]:
-
+    def totalNQueens(self, n: int) -> int:
         # bounding functions
         # row is used directly in the cycle
         used_col = set()
         used_pos_diag = set() # (row + col) = constant
         used_neg_diag = set() # (row - col) = constant
 
-        result = []
-        board = [["."] * n for _ in range(n)]
+        result = 0
 
         def backtrack(row):
 
             if row == n:
-                result.append(["".join(row) for row in board])
+                nonlocal result
+                result += 1
                 return
 
             for col in range(n):
@@ -34,14 +33,12 @@ class Solution:
                 used_col.add(col)
                 used_pos_diag.add(row + col)
                 used_neg_diag.add(row - col)
-                board[row][col] = "Q"
 
                 backtrack(row + 1)
 
                 used_col.remove(col)
                 used_pos_diag.remove(row + col)
                 used_neg_diag.remove(row - col)
-                board[row][col] = "."
 
         backtrack(0)
 
