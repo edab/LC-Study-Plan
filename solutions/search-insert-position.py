@@ -3,7 +3,7 @@
 # Link: https://leetcode.com/problems/search-insert-position/
 # Difficulty: Easy
 
-# Solution using BinarySearch
+# Solution using binary search
 # Complexity:
 #   O(logN) time | where N represent the number of elements in the input array
 #   O(1) space

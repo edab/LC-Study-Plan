@@ -1,3 +1,12 @@
+# Leetcode 33. Search in Rotated Sorted Array
+#
+# Link: https://leetcode.com/problems/search-in-rotated-sorted-array/
+# Difficulty: Medium
+
+# Solution using binary search
+# Complexity:
+#   O(logN) time | where N represent the number of elements in the input array
+#   O(1) space
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
 

@@ -308,6 +308,8 @@ My solution for LeetCode problems using Python.
 |   33 | [Search in Rotated Sorted Array](solutions/search-in-rotated-sorted-array.py) | Medium | O(log n) | O(1) |
 |   35 | [Search Insert Position](solutions/search-insert-position.py) | Easy | . | . |
 |   74 | [Search a 2D Matrix](solutions/) | Medium | O(log n) | O(1) |
+|  153 | [Find Minimum in Rotated Sorted Array](solutions/find-minimum-in-rotated-sorted-array.py) | Medium | O(log n) | O(1) |
+|  162 | [Find Peak Element](solutions/find-peak-element.py) | Medium | O(log n) | O(1) |
 |  278 | [First Bad Version](solutions/first-bad-version.py) | Easy | . | . |
 |  374 | [Guess Number Higher or Lower](solutions/guess-number-higher-or-lower.py) | Easy | O(log n) | O(1) |
 |  669 | [Trim a Binary Search Tree](solutions/trim-a-binary-search-tree.py) | Medium | O(n) | O(n) |
