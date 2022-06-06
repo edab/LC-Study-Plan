@@ -216,8 +216,9 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
 |    2 | [Add Two Numbers](solutions/add-two-numbers.py) | Medium | . | . |
-|   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium | . | . | Two Pointers
+|   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium | O(n) | O(1) | Two Pointers
 |   21 | [Merge Two Sorted Lists](solutions/merge-two-sorted-lists.py) | Easy | . | . |
+|   82 | [Remove Duplicates from Sorted List II](solutions/remove-duplicates-from-sorted-list-ii.py) | Medium | O(n) | O(1) | Two Pointers
 |  138 | [Copy List with Random Pointer](solutions/copy-list-with-random-pointer.py) | Medium | . | . |
 |  141 | [Linked List Cycle](solutions/linked-list-cycle.py) | Easy | . | . |
 |  143 | [Reorder List](solutions/reorder-list.py) | Medium | O(n) | O(1) |
