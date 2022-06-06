@@ -5,7 +5,7 @@
 
 # Solution using shift operator
 # Complexity:
-#   O(logN) time | where N represent the given input number
+#   O(1) time
 #   O(1) space
 class Solution:
     def hammingWeight(self, n: int) -> int:
@@ -20,7 +20,7 @@ class Solution:
 
 # Solution using the Brian Kernighan’s Algorithm
 # Complexity:
-#   O(M) time | where M represent the number of 1 in the given input number
+#   O(1) time
 #   O(1) space
 class Solution:
     def hammingWeight(self, n: int) -> int:

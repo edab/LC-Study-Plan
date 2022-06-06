@@ -41,7 +41,7 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :--- | :---  | :---
 |  136 | [Single Number](solutions/single-number.py) | Easy | . | . |
 |  190 | [Reverse Bits](solutions/reverse-bits.py) | Easy | . | . |
-|  191 | [Number of 1 Bits](solutions/number-of-1-bits.py) | Easy | . | . |
+|  191 | [Number of 1 Bits](solutions/number-of-1-bits.py) | Easy | O(1) | O(1) | Kernighan’s Algorithm
 |  231 | [Power of Two](solutions/power-of-two.py)| Easy | . | . |
 
 <div align="right">
@@ -305,8 +305,9 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
+|   33 | [Search in Rotated Sorted Array](solutions/search-in-rotated-sorted-array.py) | Medium | O(log n) | O(1) |
 |   35 | [Search Insert Position](solutions/search-insert-position.py) | Easy | . | . |
-|   74 | [Search a 2D Matrix](solutions/) | Medium | Medium | O(log n) | O(1) |
+|   74 | [Search a 2D Matrix](solutions/) | Medium | O(log n) | O(1) |
 |  278 | [First Bad Version](solutions/first-bad-version.py) | Easy | . | . |
 |  374 | [Guess Number Higher or Lower](solutions/guess-number-higher-or-lower.py) | Easy | O(log n) | O(1) |
 |  669 | [Trim a Binary Search Tree](solutions/trim-a-binary-search-tree.py) | Medium | O(n) | O(n) |
