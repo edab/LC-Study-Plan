@@ -145,6 +145,7 @@ My solution for LeetCode problems using Python.
 |  424 | [Longest Repeating Character Replacement](solutions/longest-repeating-character-replacement.py) | Medium | O(n) | O(1) | SlidingWindow
 |  704 | [Binary Search](solutions/binary-search.py)| Easy | . | . |
 |  807 | [Max Increase to Keep City Skyline](solutions/max-increase-to-keep-city-skyline.py) | Medium | . | . |
+|  986 | [Interval List Intersections](solutions/interval-list-intersections.py) | Medium | O(n+m) | O(1) | Two Pointers
 | 1337 | [The K Weakest Rows in a Matrix](solutions/the-k-weakest-rows-in-a-matrix.py) | Easy | . | . |
 
 <div align="right">
