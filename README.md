@@ -60,7 +60,7 @@ My solution for LeetCode problems using Python.
 |  344 | [Reverse String](solutions/reverse-string.py) | Easy | O(n) | O(1) | TwoPointers
 |  581 | [Shortest Unsorted Continuous Subarray](solutions/shortest-unsorted-continuous-subarray.py) | Medium | O(n) | O(1) | TwoPointers
 |  647 | [Palindromic Substrings](solutions/palindromic-substrings) | Medium | O(n^2) | O(1) | TwoPointers
-|  844 | [Backspace String Compare](solutions/backspace-string-compare.py) | Easy | O(n) | O(1) | TwoPointer backwards
+|  844 | [Backspace String Compare](solutions/backspace-string-compare.py) | Easy | O(n) | O(1) | TwoPointers backwards
 |  905 | [Sort Array By Parity](solutions/sort-array-by-parity.py) | Easy | O(n) | O(1)
 |  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy | O(n) | O(1) | TwoPointers
 
@@ -140,12 +140,14 @@ My solution for LeetCode problems using Python.
 |  128 | [Longest Consecutive Sequence](solutions/longest-consecutive-sequence.py) | O(α(n)) | O(n) | DSU, HashSet, HashMap
 |  169 | [Majority Element](solutions/majority-element.py) | Easy | . | . |
 |  189 | [Rotate Array](solutions/rotate-array.py) | Medium | . | . |
+|  209 | [Minimum Size Subarray Sum](solutions/minimum-size-subarray-sum.py) | Medium | O(n) | O(1) | TwoPointers
 |  215 | [Kth Largest Element in an Array](solutions/kth-largest-element-in-an-array.py) | Medium | . | . |
 | 238* | [Product of Array Except Self](solutions/product-of-array-except-self.py) | Medium | O(n) | O(1) |
 |  424 | [Longest Repeating Character Replacement](solutions/longest-repeating-character-replacement.py) | Medium | O(n) | O(1) | SlidingWindow
 |  704 | [Binary Search](solutions/binary-search.py)| Easy | . | . |
+|  713 | [Subarray Product Less Than K](solutions/subarray-product-less-than-k.py) | Medium | O(n) | O(1) | TwoPointers
 |  807 | [Max Increase to Keep City Skyline](solutions/max-increase-to-keep-city-skyline.py) | Medium | . | . |
-|  986 | [Interval List Intersections](solutions/interval-list-intersections.py) | Medium | O(n+m) | O(1) | Two Pointers
+|  986 | [Interval List Intersections](solutions/interval-list-intersections.py) | Medium | O(n+m) | O(1) | TwoPointers
 | 1337 | [The K Weakest Rows in a Matrix](solutions/the-k-weakest-rows-in-a-matrix.py) | Easy | . | . |
 
 <div align="right">
@@ -217,14 +219,14 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
 |    2 | [Add Two Numbers](solutions/add-two-numbers.py) | Medium | . | . |
-|   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium | O(n) | O(1) | Two Pointers
+|   19 | [Remove Nth Node From End of List](solutions/remove-nth-node-from-end-of-list.py) | Medium | O(n) | O(1) | TwoPointers
 |   21 | [Merge Two Sorted Lists](solutions/merge-two-sorted-lists.py) | Easy | . | . |
-|   82 | [Remove Duplicates from Sorted List II](solutions/remove-duplicates-from-sorted-list-ii.py) | Medium | O(n) | O(1) | Two Pointers
+|   82 | [Remove Duplicates from Sorted List II](solutions/remove-duplicates-from-sorted-list-ii.py) | Medium | O(n) | O(1) | TwoPointers
 |  138 | [Copy List with Random Pointer](solutions/copy-list-with-random-pointer.py) | Medium | . | . |
 |  141 | [Linked List Cycle](solutions/linked-list-cycle.py) | Easy | . | . |
 |  143 | [Reorder List](solutions/reorder-list.py) | Medium | O(n) | O(1) |
 |  160 | [Intersection of Two Linked Lists](solutions/intersection-of-two-linked-lists.py) | Easy | . | . |
-|  876 | [Middle of the Linked List](solutions/middle-of-the-linked-list.py) | Easy | . | . | Two Pointers
+|  876 | [Middle of the Linked List](solutions/middle-of-the-linked-list.py) | Easy | . | . | TwoPointers
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -268,6 +270,7 @@ My solution for LeetCode problems using Python.
 |    3 | [Longest Substring Without Repeating Characters](solutions/O(α(N))12-substring-without-repeating-characters.py) | Medium | . | . | Sliding Window
 |    5 | [Longest Palindromic Substring](solutions/longest-palindromic-substring.py) | Medium | . | . |
 |    8 | [String to Integer (atoi)](solutions/string-to-integer-atoi.py) | Medium | . | . |
+|  438 | [Find All Anagrams in a String](solutions/find-all-anagrams-in-a-string.py) | Medium | O(n) | O(m) | HashMap, TwoPointers
 |  557 | [Reverse Words in a String III](solutions/reverse-words-in-a-string-iii.py) | Easy | . | . |
 |  567 | [Permutation in String](solutions/permutation-in-string.py) | Medium | . | . | Sliding Window
 |  771 | [Jewels and Stones](solutions/jewels-and-stones.py) | Easy | . | . |
