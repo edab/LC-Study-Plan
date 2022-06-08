@@ -297,6 +297,7 @@ My solution for LeetCode problems using Python.
 |  212 | [Word Search II](solutions/word-search-ii.py) | Medium | . | . |
 |  230 | [](solutions/kth-smallest-element-in-a-bst.py) | Medium | O(n) | O(n) | InOrder
 |  236 | [Lowest Common Ancestor of a Binary Tree](solutions/lowest-common-ancestor-of-a-binary-tree.py) | Medium | . | . |
+|  572 | [](solutions/) | Easy | O(n * m) | O(1) | Recursion
 |  617 | [Merge Two Binary Trees](solutions/merge-two-binary-trees.py) | Medium | . | . |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](solutions/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py) | Medium | O(n) | O(n) | DFS
 
