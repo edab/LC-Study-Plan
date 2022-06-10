@@ -7,10 +7,6 @@
 # Complexity:
 #   O(k * C(n, k)) time | where k represent the number of elements to combine
 #   O(k) space | where k represent the number of elements to combine
-
-# Time:  O(k * C(n, k))
-# Space: O(k)
-
 class Solution:
     def combinationSum3(self, k: int, n: int) -> List[List[int]]:
         result = []

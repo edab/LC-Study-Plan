@@ -77,6 +77,7 @@ My solution for LeetCode problems using Python.
 |   17 | [Letter Combinations of a Phone Number](solutions/letter-combinations-of-a-phone-number.py) | Medium | O(n * 4^n) | O(1) | Backtraking
 |   22 | [Generate Parentheses](solutions/generate-parentheses.py) | Medium | O(2^(n+1)) | O(n) | Backtraking
 |   39 | [Combination Sum](solutions/combination-sum.py) | Medium | O(2^t) | O(1) | DFS
+|   40 | [Combination Sum II](solutions/combination-sum-ii.py) | Medium | O(n^2) | O(n^2) | Backtraking
 |   46 | [Permutations](solutions/permutations.py) | Medium | . | . |
 |   47 | [Permutations II](solutions/permutations-ii.py) | Medium | O(n * 2^n) | O(n) | DFS
 |   51 | [N-Queens](solutions/n-queens.py) | Hard | O(n^n) | O(n*n) |
