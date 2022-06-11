@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
-![Progress](https://img.shields.io/badge/progress-146%20%2F%202276-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-169%20%2F%202297-ff69b4.svg)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edab.leetcode.studyplan)
 
 My solution for LeetCode problems using Python.
@@ -103,6 +103,7 @@ My solution for LeetCode problems using Python.
 |  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium | . | . |
 |  322 | [Coin Change](solutions/coin-change.py) | Medium | O(m * n) | O(m) |
 | 1641 | [Count Sorted Vowel Strings](solutions/count-sorted-vowel-strings.py) | Medium | O(n) | O(1) |
+| 1658 | [Minimum Operations to Reduce X to Zero](solutions/minimum-operations-to-reduce-x-to-zero.py) | Medium | O(n) | O(n) | prefix_sum
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
