@@ -83,7 +83,9 @@ My solution for LeetCode problems using Python.
 |   51 | [N-Queens](solutions/n-queens.py) | Hard | O(n^n) | O(n*n) |
 |   52 | [N-Queens](solutions/n-queens-ii.py) | Hard | O(n^n) | O(1) |
 |   77 | [Combinations](solutions/combinations.py) | Medium | . | . |
+|   78 | [Subsets](solutions/subsets.py) | Medium | O(n*2^n) | O(n*2^n) |
 |   79 | [Word Search](solutions/word-search.py) | Medium | . | . |
+|   90 | [Subsets](solutions/subsets-ii.py) | Medium | O(n*2^n) | O(n*2^n) | 
 |  216 | [Combination Sum III](solutions/combination-sum-iii.py) | Medium | O(k * C(n, k)) | O(k) | DFS
 |  784 | [Letter Case Permutation](solutions/letter-case-permutation.py) | Medium | . | . |
 
