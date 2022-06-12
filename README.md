@@ -63,6 +63,7 @@ My solution for LeetCode problems using Python.
 |  844 | [Backspace String Compare](solutions/backspace-string-compare.py) | Easy | O(n) | O(1) | TwoPointers backwards
 |  905 | [Sort Array By Parity](solutions/sort-array-by-parity.py) | Easy | O(n) | O(1)
 |  977 | [Squares of a Sorted Array](solutions/squares-of-a-sorted-array.py) | Easy | O(n) | O(1) | TwoPointers
+| 1695 | [Maximum Erasure Value](solutions/maximum-erasure-value.py) | Medium | O(n) | O(n) | TwoPointers
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -85,7 +86,7 @@ My solution for LeetCode problems using Python.
 |   77 | [Combinations](solutions/combinations.py) | Medium | . | . |
 |   78 | [Subsets](solutions/subsets.py) | Medium | O(n*2^n) | O(n*2^n) |
 |   79 | [Word Search](solutions/word-search.py) | Medium | . | . |
-|   90 | [Subsets](solutions/subsets-ii.py) | Medium | O(n*2^n) | O(n*2^n) | 
+|   90 | [Subsets](solutions/subsets-ii.py) | Medium | O(n*2^n) | O(n*2^n) |
 |  216 | [Combination Sum III](solutions/combination-sum-iii.py) | Medium | O(k * C(n, k)) | O(k) | DFS
 |  784 | [Letter Case Permutation](solutions/letter-case-permutation.py) | Medium | . | . |
 
