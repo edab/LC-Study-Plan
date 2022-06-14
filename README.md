@@ -105,6 +105,7 @@ My solution for LeetCode problems using Python.
 |  304 | [Range Sum Query 2D - Immutable](solutions/range-sum-query-2d-immutable.py) | Medium | O(n^2) init, O(1) query | O(n^2) | prefix_sum
 |  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium | . | . |
 |  322 | [Coin Change](solutions/coin-change.py) | Medium | O(m * n) | O(m) |
+|  583 | [Delete Operation for Two Strings](solutions/delete-operation-for-two-strings.py) | O(m * n) | O(m * n) |
 | 1641 | [Count Sorted Vowel Strings](solutions/count-sorted-vowel-strings.py) | Medium | O(n) | O(1) |
 | 1658 | [Minimum Operations to Reduce X to Zero](solutions/minimum-operations-to-reduce-x-to-zero.py) | Medium | O(n) | O(n) | prefix_sum
 
