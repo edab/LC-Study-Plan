@@ -277,6 +277,8 @@ My solution for LeetCode problems using Python.
 |    3 | [Longest Substring Without Repeating Characters](solutions/O(α(N))12-substring-without-repeating-characters.py) | Medium | . | . | Sliding Window
 |    5 | [Longest Palindromic Substring](solutions/longest-palindromic-substring.py) | Medium | . | . |
 |    8 | [String to Integer (atoi)](solutions/string-to-integer-atoi.py) | Medium | . | . |
+|   91 | [Decode Ways](solutions/decode-ways.py) | Medium | O(n) | O(1) | dfs, dp
+|  139 | [Word Break](solutions/word-break.py) | Medium | O(n*m) | O(n) | dp
 |  438 | [Find All Anagrams in a String](solutions/find-all-anagrams-in-a-string.py) | Medium | O(n) | O(m) | HashMap, TwoPointers
 |  557 | [Reverse Words in a String III](solutions/reverse-words-in-a-string-iii.py) | Easy | . | . |
 |  567 | [Permutation in String](solutions/permutation-in-string.py) | Medium | . | . | Sliding Window
