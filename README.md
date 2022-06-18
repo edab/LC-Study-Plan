@@ -279,9 +279,11 @@ My solution for LeetCode problems using Python.
 |    8 | [String to Integer (atoi)](solutions/string-to-integer-atoi.py) | Medium | . | . |
 |   91 | [Decode Ways](solutions/decode-ways.py) | Medium | O(n) | O(1) | dfs, dp
 |  139 | [Word Break](solutions/word-break.py) | Medium | O(n*m) | O(n) | dp
+|  208 | [Implement Trie (Prefix Tree)](solutions/implement-trie-prefix-tree.py) | Medium | O(n) | O(n*m) | Trie
 |  438 | [Find All Anagrams in a String](solutions/find-all-anagrams-in-a-string.py) | Medium | O(n) | O(m) | HashMap, TwoPointers
 |  557 | [Reverse Words in a String III](solutions/reverse-words-in-a-string-iii.py) | Easy | . | . |
 |  567 | [Permutation in String](solutions/permutation-in-string.py) | Medium | . | . | Sliding Window
+|  745 | [Prefix and Suffix Search](solutions/prefix-and-suffix-search.py) | Hard | O(n*m) | O(n*m) | Trie
 |  771 | [Jewels and Stones](solutions/jewels-and-stones.py) | Easy | . | . |
 | 1344 | [Angle Between Hands of a Clock](solutions/angle-between-hands-of-a-clock.py) | Medium | . | . |
 
@@ -301,13 +303,13 @@ My solution for LeetCode problems using Python.
 |  105 | [Construct Binary Tree from Preorder and Inorder Traversal](aolutions/construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium | . | . |
 |  116 | [Populating Next Right Pointers in Each Node](solutions/populating-next-right-pointers-in-each-node.py) | Easy | . | . |
 |  117 | [Populating Next Right Pointers in Each Node II](solutions/populating-next-right-pointers-in-each-node-ii.py) | Easy | O(n) | O(n) | BFS
-|  208 | [Implement Trie (Prefix Tree)](solutions/implement-trie-prefix-tree.py) | Medium | . | . |
 |  211 | [Design Add and Search Words Data Structure](solutions/design-add-and-search-words-data-structure.py) | Medium | . | . |
 |  212 | [Word Search II](solutions/word-search-ii.py) | Medium | . | . |
-|  230 | [](solutions/kth-smallest-element-in-a-bst.py) | Medium | O(n) | O(n) | InOrder
+|  230 | [Kth Smallest Element in a BST](solutions/kth-smallest-element-in-a-bst.py) | Medium | O(n) | O(n) | InOrder
 |  236 | [Lowest Common Ancestor of a Binary Tree](solutions/lowest-common-ancestor-of-a-binary-tree.py) | Medium | . | . |
-|  572 | [](solutions/) | Easy | O(n * m) | O(1) | Recursion
+|  572 | [Subtree of Another Tree](solutions/subtree-of-another-tree.py) | Easy | O(n * m) | O(1) | Recursion
 |  617 | [Merge Two Binary Trees](solutions/merge-two-binary-trees.py) | Medium | . | . |
+|  968 | [Binary Tree Cameras](solutions/binary-tree-cameras.py) | Hard | O(n) | O(h) | DFS
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](solutions/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py) | Medium | O(n) | O(n) | DFS
 
 <div align="right">
@@ -353,6 +355,7 @@ My solution for LeetCode problems using Python.
 |   88 | [Merge Sorted Array](solutions/merge-sorted-array.py) | Easy | . | . |
 |  435 | [Non-overlapping Intervals](solutions/non-overlapping-intervals.py) | Medium | O(nlogn) | O(1) | Intervals
 | 1851 | [Minimum Interval to Include Each Query](solutions/minimum-interval-to-include-each-query.py) | Hard | O(nlogn + qlogq) | O(n) | MinHeap
+
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
 </div>
