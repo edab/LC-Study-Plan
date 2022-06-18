@@ -101,11 +101,13 @@ My solution for LeetCode problems using Python.
 |   70 | [Climbing Stairs](solutions/climbing-stairs.py) | Easy | . | . |
 |  120 | [Triangle](solutions/triangle.py) | Medium | . | . |
 |  198 | [House Robber](solutions/house-robber.py) | Medium | . | . |
+|  300 | [Longest Increasing Subsequence](solutions/longest-increasing-subsequence.py) | Medium | O(n^2) | O(n) |
 |  303 | [Range Sum Query - Immutable](solutions/range-sum-query-immutable.py) | Easy | O(n) init, O(1) query | O(n) | prefix_sum
 |  304 | [Range Sum Query 2D - Immutable](solutions/range-sum-query-2d-immutable.py) | Medium | O(n^2) init, O(1) query | O(n^2) | prefix_sum
 |  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium | . | . |
 |  322 | [Coin Change](solutions/coin-change.py) | Medium | O(m * n) | O(m) |
-|  583 | [Delete Operation for Two Strings](solutions/delete-operation-for-two-strings.py) | O(m * n) | O(m * n) |
+|  583 | [Delete Operation for Two Strings](solutions/delete-operation-for-two-strings.py) | Medium | O(m * n) | O(m * n) |
+|  673 | [Number of Longest Increasing Subsequence](solutions/number-of-longest-increasing-subsequence.py) | Medium | O(n^2) | O(n) |
 | 1641 | [Count Sorted Vowel Strings](solutions/count-sorted-vowel-strings.py) | Medium | O(n) | O(1) |
 | 1658 | [Minimum Operations to Reduce X to Zero](solutions/minimum-operations-to-reduce-x-to-zero.py) | Medium | O(n) | O(n) | prefix_sum
 
