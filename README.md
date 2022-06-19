@@ -98,9 +98,12 @@ My solution for LeetCode problems using Python.
 
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
+|   45 | [Jump Game II](solutions/jump-game-ii.py) | Medium | O(n^2) | O(n) |
+|   62 | [Unique Paths](solutions/unique-paths.py) | Medium | O(n * m) | O(n) |
 |   70 | [Climbing Stairs](solutions/climbing-stairs.py) | Easy | . | . |
 |  120 | [Triangle](solutions/triangle.py) | Medium | . | . |
-|  198 | [House Robber](solutions/house-robber.py) | Medium | . | . |
+|  198 | [House Robber](solutions/house-robber.py) | Medium | O(n) | O(1)
+|  213 | [House Robber II](solutions/house-robber-ii.py) | Medium | O(n) | O(1)
 |  300 | [Longest Increasing Subsequence](solutions/longest-increasing-subsequence.py) | Medium | O(n^2) | O(n) |
 |  303 | [Range Sum Query - Immutable](solutions/range-sum-query-immutable.py) | Easy | O(n) init, O(1) query | O(n) | prefix_sum
 |  304 | [Range Sum Query 2D - Immutable](solutions/range-sum-query-2d-immutable.py) | Medium | O(n^2) init, O(1) query | O(n^2) | prefix_sum
@@ -121,7 +124,7 @@ My solution for LeetCode problems using Python.
 |    # | Title | Level | Time | Space | Tags   
 | ---: | ----  | :---  | :--- | :---  | :---
 |   42 | [Trapping Rain Water](solutions/trapping-rain-water.py) | Hard | . | . |
-|   55 | [Jump Game](solutions/jump-game.py) | Medium | . | . |
+|   55 | [Jump Game](solutions/jump-game.py) | Medium | O(n) | O(1) |
 |  134 | [Gas Station](solutions/gas-station.py) | Medium | . | . |
 
 <div align="right">
