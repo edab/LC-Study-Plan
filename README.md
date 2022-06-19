@@ -112,6 +112,7 @@ My solution for LeetCode problems using Python.
 |  413 | [Arithmetic Slices](solutions/arithmetic-slices.py) | Medium | O(n) | O(1) |
 |  583 | [Delete Operation for Two Strings](solutions/delete-operation-for-two-strings.py) | Medium | O(m * n) | O(m * n) |
 |  673 | [Number of Longest Increasing Subsequence](solutions/number-of-longest-increasing-subsequence.py) | Medium | O(n^2) | O(n) |
+| 1143 | [Longest Common Subsequence](solutions/longest-common-subsequence.py) | Medium | O(n * m) | O(n * m) |
 | 1641 | [Count Sorted Vowel Strings](solutions/count-sorted-vowel-strings.py) | Medium | O(n) | O(1) |
 | 1658 | [Minimum Operations to Reduce X to Zero](solutions/minimum-operations-to-reduce-x-to-zero.py) | Medium | O(n) | O(n) | prefix_sum
 
