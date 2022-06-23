@@ -2,6 +2,8 @@
 #
 # Link: https://leetcode.com/problems/course-schedule-ii/
 # Difficulty: Medium
+
+# Solution using DFS
 # Complexity:
 #   O(V+E) time | where V represent the number of Vertex and E the number of Edges
 #   O(V+E) space | where V represent the number of Vertex and E the number of Edges

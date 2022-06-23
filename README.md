@@ -42,6 +42,7 @@ My solution for LeetCode problems using Python.
 |  136 | [Single Number](solutions/single-number.py) | Easy | . | . |
 |  190 | [Reverse Bits](solutions/reverse-bits.py) | Easy | . | . |
 |  191 | [Number of 1 Bits](solutions/number-of-1-bits.py) | Easy | O(1) | O(1) | Kernighan’s Algorithm
+|  201 | [Bitwise AND of Numbers Range](solutions/bitwise-and-of-numbers-range.py) | Medium | O(1) | O(1) |
 |  231 | [Power of Two](solutions/power-of-two.py)| Easy | . | . |
 
 <div align="right">
@@ -101,6 +102,7 @@ My solution for LeetCode problems using Python.
 |   45 | [Jump Game II](solutions/jump-game-ii.py) | Medium | O(n^2) | O(n) |
 |   62 | [Unique Paths](solutions/unique-paths.py) | Medium | O(n * m) | O(n) |
 |   70 | [Climbing Stairs](solutions/climbing-stairs.py) | Easy | . | . |
+|   72 | [Edit Distance](solutions/edit-distance.py) | Hard | O(n * m) | O(n * m) |
 |  120 | [Triangle](solutions/triangle.py) | Medium | . | . |
 |  198 | [House Robber](solutions/house-robber.py) | Medium | O(n) | O(1)
 |  213 | [House Robber II](solutions/house-robber-ii.py) | Medium | O(n) | O(1)
@@ -109,6 +111,7 @@ My solution for LeetCode problems using Python.
 |  304 | [Range Sum Query 2D - Immutable](solutions/range-sum-query-2d-immutable.py) | Medium | O(n^2) init, O(1) query | O(n^2) | prefix_sum
 |  307 | [Range Sum Query - Mutable](solutions/range-sum-query-mutable.py) | Medium | . | . |
 |  322 | [Coin Change](solutions/coin-change.py) | Medium | O(m * n) | O(m) |
+|  343 | [Integer Break](solutions/integer-break.py) | Medium | O(n^2) | O(n) |
 |  413 | [Arithmetic Slices](solutions/arithmetic-slices.py) | Medium | O(n) | O(1) |
 |  583 | [Delete Operation for Two Strings](solutions/delete-operation-for-two-strings.py) | Medium | O(m * n) | O(m * n) |
 |  673 | [Number of Longest Increasing Subsequence](solutions/number-of-longest-increasing-subsequence.py) | Medium | O(n^2) | O(n) |
@@ -156,6 +159,7 @@ My solution for LeetCode problems using Python.
 |  209 | [Minimum Size Subarray Sum](solutions/minimum-size-subarray-sum.py) | Medium | O(n) | O(1) | TwoPointers
 |  215 | [Kth Largest Element in an Array](solutions/kth-largest-element-in-an-array.py) | Medium | . | . |
 | 238* | [Product of Array Except Self](solutions/product-of-array-except-self.py) | Medium | O(n) | O(1) |
+|  384 | [Shuffle an Array](solutions/shuffle-an-array.py) | Medium | O(n) | O(n) | Fisher-Yates
 |  424 | [Longest Repeating Character Replacement](solutions/longest-repeating-character-replacement.py) | Medium | O(n) | O(1) | SlidingWindow
 |  704 | [Binary Search](solutions/binary-search.py)| Easy | . | . |
 |  713 | [Subarray Product Less Than K](solutions/subarray-product-less-than-k.py) | Medium | O(n) | O(1) | TwoPointers
@@ -173,6 +177,7 @@ My solution for LeetCode problems using Python.
 | ---: | ----  | :---  | :--- | :---  | :---
 |  347 | [Top K Frequent Elements](solutions/top-k-frequent-elements.py) | Medium | O(n) | O(n) |
 |  621 | [Task Scheduler](solutions/task-scheduler.py) | Medium | O(n) | O(1) |
+|  630 | [Course Schedule III](solutions/course-schedule-iii.py) | Hard | O(n log n) | O(n) |
 |  703 | [Kth Largest Element in a Stream](solutions/kth-largest-element-in-a-stream.py) | Easy | . | . |
 | 1046 | [Last Stone Weight](solutions/last-stone-weight.py) | Easy | . | . |
 
@@ -223,6 +228,7 @@ My solution for LeetCode problems using Python.
 |   13 | [Roman to Integer](solutions/roman-to-integer.py) | Easy | . | . |
 |   36 | [Valid Sudoku](solutions/valid-sudoku.py) | Medium | . | . |
 |   49 | [Group Anagrams](solutions/group-anagrams.py) | Medium | O(n*m) | O(n*m) |
+|  202 | [Happy Number](solutions/happy_number.py) | Easy | O(?) | O(?) |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
@@ -290,8 +296,9 @@ My solution for LeetCode problems using Python.
 |  438 | [Find All Anagrams in a String](solutions/find-all-anagrams-in-a-string.py) | Medium | O(n) | O(m) | HashMap, TwoPointers
 |  557 | [Reverse Words in a String III](solutions/reverse-words-in-a-string-iii.py) | Easy | . | . |
 |  567 | [Permutation in String](solutions/permutation-in-string.py) | Medium | . | . | Sliding Window
-|  745 | [Prefix and Suffix Search](solutions/prefix-and-suffix-search.py) | Hard | O(n*m) | O(n*m) | Trie
+|  745 | [Prefix and Suffix Search](solutions/prefix-and-suffix-search.py) | Hard | O(k*n) | O(k*n) | Trie
 |  771 | [Jewels and Stones](solutions/jewels-and-stones.py) | Easy | . | . |
+|  820 | [Short Encoding of Words](solutions/short-encoding-of-words.py) | Medium | O(k*n) | O(k*n) | Trie
 | 1344 | [Angle Between Hands of a Clock](solutions/angle-between-hands-of-a-clock.py) | Medium | . | . |
 
 <div align="right">

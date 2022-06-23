@@ -5,9 +5,9 @@
 
 # Solution using a Trie
 # Complexity:
-#   O(N*M) time | where N and M represent the average length of the words in the
+#   O(K*N) time | where K and N represent the average length of the words in the
 #                  trie and the number of words
-#   O(N*M) space | where N and M represent the average length of the keys in the
+#   O(K*N) space | where K and N represent the average length of the keys in the
 #                  trie and the number of words
 class TrieNode:
     def __init__(self):
