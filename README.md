@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
-![Progress](https://img.shields.io/badge/progress-169%20%2F%202297-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-200%20%2F%202322-ff69b4.svg)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edab.leetcode.studyplan)
 
 My solution for LeetCode problems using Python.
@@ -300,6 +300,7 @@ My solution for LeetCode problems using Python.
 |  771 | [Jewels and Stones](solutions/jewels-and-stones.py) | Easy | . | . |
 |  820 | [Short Encoding of Words](solutions/short-encoding-of-words.py) | Medium | O(k*n) | O(k*n) | Trie
 | 1344 | [Angle Between Hands of a Clock](solutions/angle-between-hands-of-a-clock.py) | Medium | . | . |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](solutions/partitioning-into-minimum-number-of-deci-binary-numbers.py) | Medium | O(n) | O(1) |
 
 <div align="right">
     <b><a href="#topics">Back to Top</a></b>
